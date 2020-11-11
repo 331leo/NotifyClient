@@ -20,7 +20,18 @@ namespace NotifyClient
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
+        }
 
+
+        private void metroTextBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroTextBox1_TextChanged(object sender, EventArgs e)
+        {
+            label1.Text = metroTextBox1.Text;
         }
     }
 }
