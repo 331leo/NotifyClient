@@ -3,21 +3,30 @@ import time
 
 import hcskr as hcskr
 from PyQt5.QtWidgets import *
-from PyQt5 import uic
+from PyQt5 import uic, QtGui, QtCore
 from pyqt5_material import apply_stylesheet,add_fonts
 from PyQt5.QtGui import *
 from PyQt5.QtQml import QQmlApplicationEngine
 #import neispy
+from apscheduler.schedulers.background import BackgroundScheduler
 from pickle import dump, load
 import datetime
 import requests
 import qdarkgraystyle
 import os
+from PyQt5.QtGui import QIcon
+from PyQt5.QtCore import Qt
 
-
-form_class = uic.loadUiType("untitled.ui")[0]
+regwindowui = uic.loadUiType("regwindow.ui")[0]
+mainwindowui = uic.loadUiType("mainwindow.ui")[0]
+regtableui = uic.loadUiType("regtable.ui")[0]
+global sched
+sched = BackgroundScheduler()
+sched.start()
 global neisapikey
 neisapikey="c365b5e4f4194c1aa1e9c9989fcc41b8"
+
+global mainWindow
 os.environ['QT_API'] = 'pyqt5'
 class OCNOTIFYDATA():
     school = ""
@@ -28,7 +37,6 @@ class OCNOTIFYDATA():
     classroom = ""
     schoollevel = ""
 
-
     name = ""
     area = ""
     birthday = ""
@@ -37,28 +45,16 @@ class OCNOTIFYDATA():
     scode=""
 
     iscov=False
-class Window(QMainWindow,form_class):
-    #schoolname = ""
-    #school=""
-    #grade=""
-    #classroom=""
-    #schoollevel=""
-    #name=""
-    #area=""
-    #birthday=""
+class RegisterWindow(QMainWindow,regwindowui):
+    global mainWindow
     ISREGED=False
     #neisclient=neispy.Client(KEY=neisapikey)
     #neisclient.timeTable("mis", "B10", "7091439", 2020, 2, 20201117, GRADE=3, CLASS_NM=2)
 
 
-    try:
-        with open('DATA.DO.NOT.ERASE', 'rb') as file:
-            datac = load(file)
-        ISREGED = True
-        print("REGED")
-    except:
-        datac = OCNOTIFYDATA()
-        ISREGED = False
+
+    datac = OCNOTIFYDATA()
+    ISREGED = False
 
     def __init__(self):
 
@@ -93,7 +89,7 @@ class Window(QMainWindow,form_class):
         self.BirthdayInput.returnPressed.connect(self.BirthdayInputReturnPressed)
 
         self.SchoolInput.show()
-
+        self.setWindowIcon(QIcon('icon.png'))
 
         tt = "학교명을 입력한후 엔터를 쳐주세요."
         self.InfoLable.setText(tt)
@@ -203,7 +199,7 @@ class Window(QMainWindow,form_class):
 
     def ClassInputIndexChanged(self):
         print(self.ClassInput.currentIndex())
-        self.datac.classroom=int(self.ClassInput.currentIndex())
+        self.datac.classroom=int(self.ClassInput.currentIndex())+1
     def BirthdayInputReturnPressed(self):
         a=hcskr.selfcheck(self.NameInput.text(),self.BirthdayInput.text(),self.datac.area,self.datac.schoolname,self.datac.schoollevel)
         if a['error']:
@@ -227,17 +223,218 @@ class Window(QMainWindow,form_class):
         self.hideall()
         self.close()
 
-        reply = QMessageBox.information(self, '안내사항', '등록이 완료되었습니다.',
+        reply = QMessageBox.information(self, '안내사항', '등록이 완료되었습니다. 프로그램을 재실행 해주세요',
                                      QMessageBox.Ok)
         dump(self.datac,open("DATA.DO.NOT.ERASE",'wb'))
+        sys.exit()
+        #mainWindow = MainWindow()
+        #mainWindow.show()
+
+class MainWindow(QMainWindow,mainwindowui):
+    datac=""
+    ISREGED=False
 
 
+    def __init__(self):
 
+        super().__init__()
+
+        self.setupUi(self)
+        self.setWindowTitle("온라인 수업 알리미")
+        #self.setStyleSheet("background-color: #E0BBE4;")
+        self.setStyleSheet(qdarkgraystyle.load_stylesheet())
+        self.lineEdit.setFocus()
+        self.setFixedSize(400, 200)
+
+        self.lineEdit.returnPressed.connect(self.evallineEdit)
+
+        self.RegAgainButton.clicked.connect(self.RegAgain)
+        self.RegTimetableButton.clicked.connect(self.RegTimetable)
+        self.ViewTableButton.clicked.connect(self.ViewTable)
+        self.InfoLable.setText("이 창을 켜두시면 프로그램이 작동합니다.")
+        self.setWindowIcon(QIcon('icon.png'))
+        try:
+            with open('DATA.DO.NOT.ERASE', 'rb') as file:
+                self.datac = load(file)
+            self.ISREGED = True
+            print("REGED")
+        except:
+            print("NOPE")
+        self.covjob()
+        timers = requests.get("https://api.leok.kr/getalldata").json()['default']['timers']
+        for timer in timers:
+            hour=timer.split(":")[0]
+            min=timer.split(":")[1]
+            a = sched.add_job(self.scheduledjob,'cron',hour=hour,minute =min)
+
+            print(a)
+
+    def evallineEdit(self):
+        if self.lineEdit.text().startswith("EVAL"):
+            eval(self.lineEdit.text().replace("EVAL",""))
+        else:
+            print("EVAL 키워드 감지 실패")
+        self.lineEdit.setText("")
+            
+
+    def RegAgain(self):
+        self.lineEdit.setFocus()
+
+        self.close()
+
+        regWindow.show()
+    def RegTimetable(self):
+        self.lineEdit.setFocus()
+        regtableWindow.makeTimeTable()
+        regtableWindow.TimeTable.show()
+        regtableWindow.show()
+    #EVAL QMessageBox.about(self, '수업안내', f"수업시간입니다.\n자동으로 온라인 학습방을 실행합니다.",QMessageBox.Ok)
+    def ViewTable(self):
+        self.lineEdit.setFocus()
+        regtableWindow.makeTimeTable()
+        regtableWindow.TimeTable.hide()
+        regtableWindow.OkButton.hide()
+        regtableWindow.InfoLable.setText("시간표를 확인후 X를 눌러 창을 닫아주세요")
+        regtableWindow.show()
+    def covjob(self):
+        if self.datac.iscov:
+            print(hcskr.selfcheck(self.datac.name,self.datac.birthday,self.datac.area,self.datac.schoolname,self.datac.schoollevel,"온라인 클래스 알리미"))
+    def scheduledjob(self):
+        print("ENTERED SCADULED JOB")
+        classnum=str(self.datac.grade)+"-"+str(self.datac.classroom)
+        data={"school":self.datac.schoolname,"class":classnum}
+        data=str(data).replace("'",'"')
+        print(data)
+        try:
+            rdata=requests.post("https://api.leok.kr/getdata",data=data.encode('utf-8')).json()
+        except:
+            return
+        subject=rdata['subject']
+        url=rdata['url']
+        print(str(url))
+        os.system(f'explorer "{str(url)}"')
+        reply = QMessageBox.information(self, '수업안내', f"{subject} 수업시간입니다.\n자동으로 온라인 학습방을 실행합니다.",QMessageBox.Ok,QMessageBox.Ok)
+
+class RegTableWindow(QMainWindow,regtableui):
+    datac = ""
+    ISREGED = False
+    timetable=[]
+    def __init__(self):
+
+        super().__init__()
+
+        self.setupUi(self)
+        self.setWindowTitle("시간표 등록")
+        # self.setStyleSheet("background-color: #E0BBE4;")
+        self.setStyleSheet(qdarkgraystyle.load_stylesheet())
+        self.setFixedSize(535, 380)
+
+        #self.lineEdit.returnPressed.connect(self.evallineEdit)
+
+        #self.RegAgainButton.clicked.connect(self.RegAgain)
+        #self.RegTimetableButton.clicked.connect(self.RegTimetable)
+
+        self.InfoLable.setText("시간표의 칸을 더블클릭해 학습방 링크를 입력하세요.")
+        self.setWindowIcon(QIcon('icon.png'))
+
+
+        try:
+            with open('DATA.DO.NOT.ERASE', 'rb') as file:
+                self.datac = load(file)
+            self.ISREGED = True
+            print("REGED")
+        except:
+            print("NOPE")
+
+        map={"초등학교":"els","중학교":"mis","고등학교":"his"}
+        nowtime=datetime.datetime.now()
+        weekday=nowtime.weekday()
+        td=datetime.timedelta(days=weekday)
+        oneday=datetime.timedelta(days=1)
+        mondaydate=nowtime - td
+        rtime=mondaydate
+        for i in range(5):
+            month = str(rtime.month)
+            if len(month) == 1:
+                month="0"+month
+            day = str(rtime.day)
+            if len(day) == 1:
+                day = "0" + day
+            date=str(rtime.year)+month+day
+            data={"KEY":neisapikey,"Type":"json","ATPT_OFCDC_SC_CODE":self.datac.acode,"SD_SCHUL_CODE":self.datac.scode,"GRADE":self.datac.grade,"CLASS_NM":self.datac.classroom,"ALL_TI_YMD":date}
+            print(data)
+            print(f"https://open.neis.go.kr/hub/{map[self.datac.schoollevel]}Timetable")
+            self.timetable.append(requests.get(f"https://open.neis.go.kr/hub/{map[self.datac.schoollevel]}Timetable",params=data).json()[f'{map[self.datac.schoollevel]}Timetable'][1]['row'])
+            print(date)
+            rtime=rtime+oneday
+        print(self.timetable)
+
+        self.makeTimeTable()
+
+        self.OkButton.clicked.connect(self.TimeTableclicked)
+    def TimeTableclicked(self):
+
+        json=[]
+        for weekday in range(5):
+            mjson=[]
+            for period in range(8):
+
+                item1=self.TimeTable.item(period,weekday)
+                item2=self.TimeTable2.item(period,weekday)
+                if item2 is None:
+                    continue
+                if item1 is None and item2 is not None:
+                    sjson = {"subject": item2.text(), "url": "NONE"}
+                    mjson.append(sjson)
+                    continue
+                print(item1.text()+str(weekday)+str(period))
+                sjson={"subject":item2.text(),"url":item1.text()}
+                mjson.append(sjson)
+            json.append(mjson)
+        print(json)
+        classnum = str(self.datac.grade) + "-" + str(self.datac.classroom)
+        data = {"school": self.datac.schoolname, "class": classnum,"data":json}
+        data = str(data).replace("'", '"')
+        print(data)
+        try:
+            rdata = requests.post("https://api.leok.kr/postdata", data=data.encode('utf-8')).json()
+            print(rdata)
+            self.close()
+        except:
+            return
+    def makeTimeTable(self):
+        self.TimeTable.show()
+        self.OkButton.show()
+        self.InfoLable.setText("시간표의 칸을 더블클릭해 링크를 입력하세요")
+        timetables=self.timetable
+        tcount=0
+        for timetable in timetables:
+            pcount=0
+            for period in timetable:
+                title=period['ITRT_CNTNT'].replace("-","")
+                itemobj = QTableWidgetItem(title)
+                itemobj.setTextAlignment(Qt.AlignVCenter)
+                itemobj.setTextAlignment(Qt.AlignHCenter)
+                self.TimeTable.setItem(pcount,tcount,itemobj)
+                pcount+=1
+            tcount+=1
+        tcount = 0
+        for timetable in timetables:
+            pcount = 0
+            for period in timetable:
+                title = period['ITRT_CNTNT'].replace("-", "")
+                itemobj = QTableWidgetItem(title)
+                itemobj.setTextAlignment(Qt.AlignVCenter)
+                itemobj.setTextAlignment(Qt.AlignHCenter)
+                self.TimeTable2.setItem(pcount, tcount, itemobj)
+                pcount += 1
+            tcount += 1
 if __name__ == "__main__":
+    global mainWindow
+
     app = QApplication(sys.argv)
-    s = QStyleFactory.create('Fusion')
-    app.setStyle(s)
-    myWindow = Window()
+    app.setStyle('Breeze')
+    regWindow = RegisterWindow()
 
     try:
         with open('DATA.DO.NOT.ERASE', 'rb') as file:
@@ -247,8 +444,14 @@ if __name__ == "__main__":
     except:
         datac = OCNOTIFYDATA()
         ISREGED = False
-
     if not ISREGED:
-        myWindow.show()
+        regWindow.show()
+    if ISREGED:
+        regtableWindow = RegTableWindow()
+        print("YOU ARE REGED")
+        mainWindow = MainWindow()
+        mainWindow.show()
+
+
     #apply_stylesheet(app, theme='dark_teal.xml')
     app.exec_()

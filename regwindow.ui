@@ -178,6 +178,13 @@
      <height>22</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <family>나눔스퀘어라운드 ExtraBold</family>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
   </widget>
   <widget class="QComboBox" name="ClassInput">
    <property name="geometry">
@@ -187,6 +194,13 @@
      <width>76</width>
      <height>22</height>
     </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>나눔스퀘어라운드 ExtraBold</family>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
    </property>
   </widget>
  </widget>
