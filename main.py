@@ -24,7 +24,7 @@ global sched
 sched = BackgroundScheduler()
 sched.start()
 global neisapikey
-neisapikey="c365b5e4f4194c1aa1e9c9989fcc41b8"
+neisapikey="YOUR NEIS API KEY : open.neis.go.kr"
 
 global mainWindow
 os.environ['QT_API'] = 'pyqt5'
