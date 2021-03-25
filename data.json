@@ -1,0 +1,3927 @@
+{
+  "autocheck": {
+    "211838318067974144": {
+      "birthday": "040517",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "박재범"
+    },
+    "323239007674957824": {
+      "birthday": "030321",
+      "level": "고등학교",
+      "name": "안양공업고",
+      "region": "경기",
+      "studentName": "곽병철"
+    },
+    "403511023816015872": {
+      "birthday": "071004",
+      "level": "중학교",
+      "name": "이수중학교",
+      "region": "서울",
+      "studentName": "한성현"
+    },
+    "407400796083453953": {
+      "birthday": "061025",
+      "level": "중학교",
+      "name": "증평중학교",
+      "region": "충북",
+      "studentName": "김동길"
+    },
+    "409177682899632130": {
+      "birthday": "050331",
+      "level": "중학교",
+      "name": "신사중",
+      "region": "서울",
+      "studentName": "김동현"
+    },
+    "410427490763407381": {
+      "birthday": "060113",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "김현준"
+    },
+    "417640631859675137": {
+      "birthday": "060331",
+      "level": "중학교",
+      "name": "교하중",
+      "region": "경기",
+      "studentName": "이병훈"
+    },
+    "432038330264190977": {
+      "birthday": "030423",
+      "level": "고등학교",
+      "name": "덕영고",
+      "region": "경기",
+      "studentName": "허철영"
+    },
+    "432478841756188682": {
+      "birthday": "050106",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "정주혁"
+    },
+    "441936781206749197": {
+      "birthday": "040519",
+      "level": "고등학교",
+      "name": "서울여자고등학교",
+      "region": "서울",
+      "studentName": "손혜민"
+    },
+    "443734180816486441": {
+      "birthday": "090111",
+      "level": "초등학교",
+      "name": "한라초등학교",
+      "region": "제주",
+      "studentName": "고지운"
+    },
+    "447934468603379724": {
+      "birthday": "080325",
+      "level": "초등학교",
+      "name": "유목초등학교",
+      "region": "경남",
+      "studentName": "성준홍"
+    },
+    "457737355676221441": {
+      "birthday": "050218",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "김시헌"
+    },
+    "475152764281028628": {
+      "birthday": "051122",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "이정우"
+    },
+    "475860628284637195": {
+      "birthday": "061031",
+      "level": "중학교",
+      "name": "늘푸른중",
+      "region": "경기",
+      "studentName": "고주원"
+    },
+    "485700659170246657": {
+      "birthday": "050908",
+      "level": "중학교",
+      "name": "개림중학교",
+      "region": "부산",
+      "studentName": "최현규"
+    },
+    "490169055496372224": {
+      "birthday": "040206",
+      "level": "고등학교",
+      "name": "세정고등학교",
+      "region": "부산",
+      "studentName": "양연주"
+    },
+    "491937135201615874": {
+      "birthday": "050924",
+      "level": "중학교",
+      "name": "개림중학교",
+      "region": "부산",
+      "studentName": "서상현"
+    },
+    "494012709004640257": {
+      "birthday": "060817",
+      "level": "중학교",
+      "name": "원주여자중학교",
+      "region": "강원",
+      "studentName": "정혜빈"
+    },
+    "500916214923657238": {
+      "birthday": "060728",
+      "level": "중학교",
+      "name": "금정중",
+      "region": "부산",
+      "studentName": "박수환"
+    },
+    "510376942059388956": {
+      "birthday": "050609",
+      "level": "중학교",
+      "name": "원통중학교",
+      "region": "강원",
+      "studentName": "류준서"
+    },
+    "511070420179615744": {
+      "birthday": "080418",
+      "level": "초등학교",
+      "name": "장월초등학교",
+      "region": "서울",
+      "studentName": "류한준"
+    },
+    "520868474742898708": {
+      "birthday": "051206",
+      "level": "중학교",
+      "name": "신사중",
+      "region": "서울",
+      "studentName": "이호범"
+    },
+    "524114627647373322": {
+      "birthday": "050828",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "김민홍"
+    },
+    "526958314647453706": {
+      "birthday": "051005",
+      "level": "중학교",
+      "name": "한라중학교",
+      "region": "제주",
+      "studentName": "이원재"
+    },
+    "542613221954158603": {
+      "birthday": "050201",
+      "level": "중학교",
+      "name": "양평중학교",
+      "region": "경기",
+      "studentName": "방준호"
+    },
+    "575268239995699200": {
+      "birthday": "071208",
+      "level": "중학교",
+      "name": "신창중",
+      "region": "광주",
+      "studentName": "김예현"
+    },
+    "603234650386726923": {
+      "birthday": "050101",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "박현진"
+    },
+    "607515204770856978": {
+      "birthday": "060404",
+      "level": "중학교",
+      "name": "형석중학교",
+      "region": "충북",
+      "studentName": "신희준"
+    },
+    "616570697875193866": {
+      "birthday": "060818",
+      "level": "중학교",
+      "name": "서흥중",
+      "region": "전북",
+      "studentName": "남상익"
+    },
+    "620212641016709151": {
+      "birthday": "071002",
+      "level": "중학교",
+      "name": "마석중",
+      "region": "경기",
+      "studentName": "박태성"
+    },
+    "629195809648410637": {
+      "birthday": "050204",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "강동준"
+    },
+    "657773087571574784": {
+      "birthday": "100810",
+      "level": "초등학교",
+      "name": "반석초",
+      "region": "경기",
+      "studentName": "구현민"
+    },
+    "660326571042930690": {
+      "birthday": "050907",
+      "level": "중학교",
+      "name": "봉담중",
+      "region": "경기",
+      "studentName": "안시현"
+    },
+    "665687921482924054": {
+      "birthday": "070430",
+      "level": "중학교",
+      "name": "오남중학교",
+      "region": "경기",
+      "studentName": "이성미"
+    },
+    "681348070260211713": {
+      "birthday": "091002",
+      "level": "초등학교",
+      "name": "월봉초",
+      "region": "울산",
+      "studentName": "김동인"
+    },
+    "682210523252785281": {
+      "birthday": "070830",
+      "level": "중학교",
+      "name": "두일중학교",
+      "region": "경기",
+      "studentName": "고가림"
+    },
+    "683515568137175050": {
+      "birthday": "040503",
+      "level": "고등학교",
+      "name": "성사고등학교",
+      "region": "경기",
+      "studentName": "한동수"
+    },
+    "686770295209721867": {
+      "birthday": "051122",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "이정우"
+    },
+    "687623503985508380": {
+      "birthday": "050331",
+      "level": "중학교",
+      "name": "신사중",
+      "region": "서울",
+      "studentName": "김동현"
+    },
+    "687898605713227806": {
+      "birthday": "051216",
+      "level": "중학교",
+      "name": "영신중학교",
+      "region": "대구",
+      "studentName": "전진호"
+    },
+    "690915189968601098": {
+      "birthday": "080115",
+      "level": "초등학교",
+      "name": "봉일천초등학교",
+      "region": "경기",
+      "studentName": "변우람"
+    },
+    "693063491837493278": {
+      "birthday": "081006",
+      "level": "초등학교",
+      "name": "미남초",
+      "region": "부산",
+      "studentName": "박가은"
+    },
+    "696708173138100255": {
+      "birthday": "070905",
+      "level": "중학교",
+      "name": "천생중",
+      "region": "경북",
+      "studentName": "백승훈"
+    },
+    "700517833658073130": {
+      "birthday": "081022",
+      "level": "초등학교",
+      "name": "지도초",
+      "region": "경기",
+      "studentName": "김민성"
+    },
+    "701292057431375892": {
+      "birthday": "051122",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "최지우"
+    },
+    "702424557742587948": {
+      "birthday": "051216",
+      "level": "중학교",
+      "name": "영신중학교",
+      "region": "대구",
+      "studentName": "전진호"
+    },
+    "706546520216043542": {
+      "birthday": "051126",
+      "level": "중학교",
+      "name": "신사중",
+      "region": "서울",
+      "studentName": "한상준"
+    },
+    "708649909997535242": {
+      "birthday": "020519",
+      "level": "고등학교",
+      "name": "한올고",
+      "region": "충남",
+      "studentName": "전수인"
+    },
+    "709718720658014218": {
+      "birthday": "080821",
+      "level": "초등학교",
+      "name": "서울삼전초등학교",
+      "region": "서울",
+      "studentName": "유하영"
+    },
+    "710127089994563615": {
+      "birthday": "070430",
+      "level": "중학교",
+      "name": "오남중학교",
+      "region": "경기",
+      "studentName": "이성미"
+    },
+    "713267646258348042": {
+      "birthday": "050414",
+      "level": "중학교",
+      "name": "신사중",
+      "region": "서울",
+      "studentName": "박주환"
+    },
+    "718272468082491452": {
+      "birthday": "090601",
+      "level": "초등학교",
+      "name": "역촌초등학교",
+      "region": "서울",
+      "studentName": "윤상민"
+    },
+    "720112607268307004": {
+      "birthday": "060917",
+      "level": "중학교",
+      "name": "삼산중학교",
+      "region": "인천",
+      "studentName": "김대권"
+    },
+    "732403713112801373": {
+      "birthday": "050602",
+      "level": "중학교",
+      "name": "영신중학교",
+      "region": "대구",
+      "studentName": "허수혁"
+    },
+    "738637934223294466": {
+      "birthday": "041126",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "이민성"
+    },
+    "743077749064859779": {
+      "birthday": "050331",
+      "level": "중학교",
+      "name": "신사중",
+      "region": "서울",
+      "studentName": "김동현"
+    },
+    "746612519136919644": {
+      "birthday": "070325",
+      "level": "중학교",
+      "name": "이리영등중학교",
+      "region": "전북",
+      "studentName": "염화선"
+    },
+    "746968985869877300": {
+      "birthday": "051128",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "강승우"
+    },
+    "751996493912604753": {
+      "birthday": "050613",
+      "level": "중학교",
+      "name": "개림중",
+      "region": "부산",
+      "studentName": "박민찬"
+    },
+    "755022450911346768": {
+      "birthday": "011029",
+      "level": "고등학교",
+      "name": "효산고",
+      "region": "전남",
+      "studentName": "김다소"
+    },
+    "755773465692209153": {
+      "birthday": "050602",
+      "level": "중학교",
+      "name": "영신중",
+      "region": "대구",
+      "studentName": "허수혁"
+    },
+    "756802413741998160": {
+      "birthday": "041110",
+      "level": "고등학교",
+      "name": "잠실고",
+      "region": "서울",
+      "studentName": "김윤모"
+    },
+    "761248294462029884": {
+      "birthday": "070502",
+      "level": "중학교",
+      "name": "영암여자중학교",
+      "region": "전남",
+      "studentName": "박지우"
+    }
+  },
+  "donotify": {
+    "750912115287785522": "N",
+    "752156758310387773": "N",
+    "760693206911549454": "N"
+  },
+  "memberclog": {
+    "485146668023414795": {
+      "inout": "T"
+    },
+    "519453273606848513": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "582525945898860564": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 766184445698637824
+    },
+    "684203351839211571": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "686803496607154191": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "713441428495269978": {
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 758345274501627984
+    },
+    "716498225674059776": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 747741038508245042
+    },
+    "720897358279344229": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "725528358300942426": {
+      "changeroles": "T"
+    },
+    "731326952610201610": {
+      "sendc": "F"
+    },
+    "731783217790844939": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "738733369151586365": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 766120714914496547
+    },
+    "744817831698235443": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "744938456026841168": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "750611741238493196": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 751703049269018656
+    },
+    "750959673741672448": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "753151783722811412": {
+      "changenick": "F"
+    },
+    "753968654659354695": {
+      "sendc": 791531656796307456
+    },
+    "756158933193982024": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "759325348877172746": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "760770982079365160": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "T",
+      "sendc": 760770982079365163
+    },
+    "761541402580353045": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "765809162100932660": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "767349373185032192": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "767665301612658730": {
+      "changeroles": "T",
+      "sendc": 773106831790047252
+    },
+    "769512996212047883": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 771188265230401567
+    },
+    "770986084087103529": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "774974357042102333": {
+      "sendc": 776040510258806805
+    },
+    "776305468918333461": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "777108452831920138": {
+      "inout": "T"
+    },
+    "778591172847075338": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 778806256395091978
+    },
+    "778990418016469042": {
+      "inout": "T",
+      "sendc": 778990419731677206
+    },
+    "787494717981982740": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "788442241823145984": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T"
+    },
+    "790137034694066196": {
+      "changenick": "F",
+      "changeroles": "F"
+    },
+    "790577124322443294": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "793788101818449950": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 812181674300801065
+    },
+    "794787671128932382": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "797816158668980255": {
+      "changeroles": "F"
+    },
+    "800007292811739137": {
+      "changenick": "T",
+      "changeroles": "T",
+      "inout": "T",
+      "sendc": 800158754695151666
+    },
+    "800546018675785758": {
+      "inout": "F"
+    },
+    "801080208832200734": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "804765898254188555": {
+      "sendc": 804765898744528898
+    },
+    "805045124047306753": {
+      "changenick": "F",
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": "F"
+    },
+    "808336408389484575": {
+      "changeroles": "F",
+      "inout": "F",
+      "sendc": 808336408829100075
+    },
+    "810367327622660126": {
+      "inout": "T",
+      "sendc": 810379020357206037
+    },
+    "814148418179563551": {
+      "inout": "F"
+    },
+    "821185739312201728": {
+      "inout": "T",
+      "sendc": 821206084781342780
+    }
+  },
+  "ocnotify": {
+    "default": {
+      "timers": ["08:55", "09:50", "10:45", "11:40", "13:15", "14:10", "15:05"]
+    },
+    "school": {
+      "다른학교": "암튼그럼",
+      "신사중학교": {
+        "3-1": "다른반",
+        "3-2": [
+          [
+            {
+              "subject": "체육",
+              "url": "https://zoom.us/j/91235180357?pwd=QXh2ME9LWTVpbitiamJ6OGpzYkVUdz09"
+            },
+            {
+              "subject": "음악",
+              "url": "https://oc4.ebssw.kr/felice/hmpg/hmpgAlctcrListView.do?menuSn=295629"
+            },
+            {
+              "subject": "역사",
+              "url": "https://zoom.us/j/97163557851?pwd=TDZ3UGxWK3JuS1hZUEIvU0xsdnpJQT09"
+            },
+            {
+              "subject": "기술·가정",
+              "url": "https://classroom.google.com/u/2/c/NjY5Njc2MjM0Mzda"
+            },
+            {
+              "subject": "국어",
+              "url": "https://zoom.us/j/99931625319?pwd=MXRleW04R0dsRXJUaENNTS9pTGVCQT09"
+            },
+            {
+              "subject": "수학",
+              "url": "https://zoom.us/j/3758634096?pwd=cXFIaVZLSk9FVHVZWmJtVTVTT1hMQT09"
+            }
+          ],
+          [
+            {
+              "subject": "과학",
+              "url": "https://zoom.us/j/92430287392?pwd=MXRZeVJJV1dOK3pkOG0rdUtNUVRHZz09"
+            },
+            {
+              "subject": "체육",
+              "url": "https://zoom.us/j/91235180357?pwd=QXh2ME9LWTVpbitiamJ6OGpzYkVUdz09"
+            },
+            {
+              "subject": "생활 중국어",
+              "url": "https://zoom.us/j/99365947281?pwd=YkJhNGxXMmY5Z082WW1UMTVQVnk1Zz09"
+            },
+            {
+              "subject": "진로활동",
+              "url": "https://classroom.google.com/u/2/c/MTMwNTg0OTAyODE3"
+            },
+            {
+              "subject": "과학",
+              "url": "https://zoom.us/j/9281023099?pwd=M093SVlBRjdrSHlVZGdIZWQzQm5BUT09"
+            },
+            {
+              "subject": "기술·가정",
+              "url": "https://zoom.us/j/2409383852?pwd=Tmp6SEhaR3hTclp4YUtNeWl5SDIwdz09"
+            },
+            {
+              "subject": "영어",
+              "url": "https://zoom.us/j/6530958530"
+            }
+          ],
+          [
+            {
+              "subject": "역사",
+              "url": "https://zoom.us/j/97163557851?pwd=TDZ3UGxWK3JuS1hZUEIvU0xsdnpJQT09"
+            },
+            {
+              "subject": "생활 중국어",
+              "url": "https://zoom.us/j/99365947281?pwd=YkJhNGxXMmY5Z082WW1UMTVQVnk1Zz09"
+            },
+            {
+              "subject": "사회",
+              "url": "https://zoom.us/j/95037731628?pwd=Rlc0TnpOeGhsZ0ovcHY4TzdhOG16dz09"
+            },
+            {
+              "subject": "국어",
+              "url": "https://zoom.us/j/99931625319?pwd=MXRleW04R0dsRXJUaENNTS9pTGVCQT09"
+            },
+            {
+              "subject": "음악",
+              "url": "https://oc4.ebssw.kr/felice/hmpg/hmpgAlctcrListView.do?menuSn=295629"
+            },
+            {
+              "subject": "영어",
+              "url": "https://zoom.us/j/97498847320?pwd=dkJaNFNZaEhwZExieE9MNUd6SW5zQT09"
+            }
+          ],
+          [
+            {
+              "subject": "영어",
+              "url": "https://zoom.us/j/6530958530"
+            },
+            {
+              "subject": "과학",
+              "url": "https://zoom.us/j/9281023099?pwd=M093SVlBRjdrSHlVZGdIZWQzQm5BUT09"
+            },
+            {
+              "subject": "국어",
+              "url": "https://zoom.us/j/92430287392?pwd=MXRZeVJJV1dOK3pkOG0rdUtNUVRHZz09"
+            },
+            {
+              "subject": "동아리활동",
+              "url": "https://zoom.us/j/2116608923?pwd=L0NIdzc3Q3FkY0lHWXdXY3ZqbjN3QT09"
+            },
+            {
+              "subject": "수학",
+              "url": "https://zoom.us/j/3758634096?pwd=cXFIaVZLSk9FVHVZWmJtVTVTT1hMQT09"
+            },
+            {
+              "subject": "과학",
+              "url": "https://zoom.us/j/92430287392?pwd=MXRZeVJJV1dOK3pkOG0rdUtNUVRHZz09"
+            },
+            {
+              "subject": "국어",
+              "url": "https://zoom.us/j/99931625319?pwd=MXRleW04R0dsRXJUaENNTS9pTGVCQT09"
+            }
+          ],
+          [
+            {
+              "subject": "영어",
+              "url": "https://zoom.us/j/6530958530"
+            },
+            {
+              "subject": "생활 중국어",
+              "url": "https://zoom.us/j/99365947281?pwd=YkJhNGxXMmY5Z082WW1UMTVQVnk1Zz09"
+            },
+            {
+              "subject": "체육",
+              "url": "https://zoom.us/j/91235180357?pwd=QXh2ME9LWTVpbitiamJ6OGpzYkVUdz09"
+            },
+            {
+              "subject": "수학",
+              "url": "https://zoom.us/j/3758634096?pwd=cXFIaVZLSk9FVHVZWmJtVTVTT1hMQT09"
+            },
+            {
+              "subject": "기술·가정",
+              "url": "https://zoom.us/j/2409383852?pwd=Tmp6SEhaR3hTclp4YUtNeWl5SDIwdz09"
+            },
+            {
+              "subject": "사회",
+              "url": "https://zoom.us/j/95037731628?pwd=Rlc0TnpOeGhsZ0ovcHY4TzdhOG16dz09"
+            }
+          ],
+          [
+            {
+              "subject": "생활 중국어",
+              "url": "https://zoom.us/j/99365947281?pwd=YkJhNGxXMmY5Z082WW1UMTVQVnk1Zz09"
+            },
+            {
+              "subject": "생활 중국어",
+              "url": "https://zoom.us/j/99365947281?pwd=YkJhNGxXMmY5Z082WW1UMTVQVnk1Zz09"
+            },
+            {
+              "subject": "체육",
+              "url": "https://zoom.us/j/91235180357?pwd=QXh2ME9LWTVpbitiamJ6OGpzYkVUdz09"
+            },
+            {
+              "subject": "수학",
+              "url": "https://zoom.us/j/3758634096?pwd=cXFIaVZLSk9FVHVZWmJtVTVTT1hMQT09"
+            },
+            {
+              "subject": "기술·가정",
+              "url": "https://zoom.us/j/2409383852?pwd=Tmp6SEhaR3hTclp4YUtNeWl5SDIwdz09"
+            },
+            {
+              "subject": "사회",
+              "url": "https://zoom.us/j/95037731628?pwd=Rlc0TnpOeGhsZ0ovcHY4TzdhOG16dz09"
+            }
+          ]
+        ]
+      },
+      "현대고등학교": {
+        "1": {
+          "timers": [
+            "12:55",
+            "12:56",
+            "12:57",
+            "12:58",
+            "12:59",
+            "13:00",
+            "13:01"
+          ]
+        },
+        "1-10": [
+          [
+            {
+              "subject": "통합과학",
+              "url": "https://zoom.us/j/96556726226?pwd=VmYrVnNVcUY4Mk9NSjFsOEZNbkdTQT09\n"
+            },
+            {
+              "subject": "영어",
+              "url": "https://zoom.us/j/94928826869?pwd=M1hJOEx1RCtrbVdFa0xsaVdmZ1BmQT09\n"
+            },
+            {
+              "subject": "정보",
+              "url": "https://zoom.us/j/97364783163?pwd=SG45MEcvc0EraWtFMDk1eWFqZThLdz09"
+            },
+            {
+              "subject": "통합사회",
+              "url": "https://zoom.us/j/8238499606?pwd=QnFrWW5QdEloRlJPUnhaTnZOWXNpdz09"
+            },
+            {
+              "subject": "수학",
+              "url": "https://zoom.us/j/6985884911?pwd=V3p0MkwrSnZobDV4TmNuTnYxc1ROZz09\n"
+            },
+            {
+              "subject": "통합사회",
+              "url": "https://zoom.us/j/96853894109?pwd=Y1pieDVqcUNVY1djU01LY2xXRXlvUT09\n"
+            }
+          ],
+          [
+            {
+              "subject": "한국사",
+              "url": "https://zoom.us/j/92046514260?pwd=YlNoNjgwRFcwZU9McG9zR1VzemtaZz09"
+            },
+            {
+              "subject": "중국어Ⅰ",
+              "url": "https://zoom.us/j/98052358224?pwd=c003aE0vWURLeE1uZVJBWnU1NWMxdz09"
+            },
+            {
+              "subject": "통합사회",
+              "url": "https://zoom.us/j/6310541761?pwd=RFFBQkIwNCtPdXpPKzluUEJQL1ZkUT09"
+            },
+            {
+              "subject": "영어",
+              "url": "https://zoom.us/j/98443992881?pwd=UncxUTJFZGtvczJwZ3BkSzlGOVhzQT09\n"
+            },
+            {
+              "subject": "통합과학",
+              "url": "https://zoom.us/j/4746272980?pwd=Z2xCajUwT0hnM3R0eklwZGtxZUxBZz09\n"
+            },
+            {
+              "subject": "국어",
+              "url": "https://zoom.us/j/92705825278?pwd=ckM3ZUs5RXFWWldmNEl5Z3A0QWpQZz09\n"
+            },
+            {
+              "subject": "미술 창작",
+              "url": "https://zoom.us/j/93274528643?pwd=Y3RmSkN5MEI5eEZGeW8xWW9BdnpDdz09"
+            }
+          ],
+          [
+            {
+              "subject": "통합과학",
+              "url": "https://zoom.us/j/96556726226?pwd=VmYrVnNVcUY4Mk9NSjFsOEZNbkdTQT09\n"
+            },
+            {
+              "subject": "체육",
+              "url": "https://zoom.us/j/92024367355?pwd=eTBBK0lBemZvNTE4bnQwTHgxWEU0dz09\n"
+            },
+            {
+              "subject": "영어",
+              "url": "https://zoom.us/j/98443992881?pwd=UncxUTJFZGtvczJwZ3BkSzlGOVhzQT09\n"
+            },
+            {
+              "subject": "국어",
+              "url": "https://zoom.us/j/94628535350?pwd=NmhINGp3RDBBWjhCazlITTlDaUJSZz09"
+            },
+            {
+              "subject": "한국사",
+              "url": "https://zoom.us/j/92046514260?pwd=YlNoNjgwRFcwZU9McG9zR1VzemtaZz09"
+            },
+            {
+              "subject": "수학",
+              "url": "https://zoom.us/j/6985884911?pwd=V3p0MkwrSnZobDV4TmNuTnYxc1ROZz09\n"
+            },
+            {
+              "subject": "영어",
+              "url": "https://zoom.us/j/94928826869?pwd=M1hJOEx1RCtrbVdFa0xsaVdmZ1BmQT09\n"
+            }
+          ],
+          [
+            {
+              "subject": "통합과학",
+              "url": "https://zoom.us/j/4746272980?pwd=Z2xCajUwT0hnM3R0eklwZGtxZUxBZz09\n"
+            },
+            {
+              "subject": "국어",
+              "url": "https://zoom.us/j/94628535350?pwd=NmhINGp3RDBBWjhCazlITTlDaUJSZz09"
+            },
+            {
+              "subject": "수학",
+              "url": "https://zoom.us/j/6985884911?pwd=V3p0MkwrSnZobDV4TmNuTnYxc1ROZz09\n"
+            },
+            {
+              "subject": "정보",
+              "url": "https://zoom.us/j/97364783163?pwd=SG45MEcvc0EraWtFMDk1eWFqZThLdz09"
+            },
+            {
+              "subject": "중국어Ⅰ",
+              "url": "https://zoom.us/j/98052358224?pwd=c003aE0vWURLeE1uZVJBWnU1NWMxdz09"
+            },
+            {
+              "subject": "체육",
+              "url": "https://zoom.us/j/92024367355?pwd=eTBBK0lBemZvNTE4bnQwTHgxWEU0dz09\n"
+            }
+          ],
+          [
+            {
+              "subject": "통합사회",
+              "url": "https://zoom.us/j/96127400651?pwd=R0JyY3Ewd1dDUHY3UHhQRVRZNnNRdz09\n"
+            },
+            {
+              "subject": "음악",
+              "url": "https://zoom.us/j/4422112232?pwd=MWNwOXNFTHpNbkJvSnYzb01BWWhkZz09"
+            },
+            {
+              "subject": "수학",
+              "url": "https://zoom.us/j/6985884911?pwd=V3p0MkwrSnZobDV4TmNuTnYxc1ROZz09\n"
+            },
+            {
+              "subject": "과학탐구실험",
+              "url": "https://zoom.us/j/4746272980?pwd=Z2xCajUwT0hnM3R0eklwZGtxZUxBZz09\n"
+            },
+            {
+              "subject": "국어",
+              "url": "https://zoom.us/j/7042128036?pwd=SU5KNGdCTElXb0xNb0E4S2lQRk9BQT09"
+            },
+            {
+              "subject": "동아리활동",
+              "url": "https://zoom.us/j/97012375345?pwd=ZUpFWG5CNUkwWjdGc1ZrMVB3M2xndz09\n"
+            },
+            {
+              "subject": "동아리활동",
+              "url": "https://zoom.us/j/97012375345?pwd=ZUpFWG5CNUkwWjdGc1ZrMVB3M2xndz09\n"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "perfectlangchannel": {
+    "745833275406286908": "T",
+    "749521923553230901": "T",
+    "761693588647706687": "T",
+    "767596162822701086": "T",
+    "768489768220098572": "T",
+    "769709916230516766": "T",
+    "771326725635309578": "T",
+    "788641079847157812": "T",
+    "790803226466713600": "T",
+    "793886995302318110": "T",
+    "796954452921155584": "T",
+    "800346460021325844": "T",
+    "800748047189540914": "T",
+    "800904116288356353": "T",
+    "805058591685738526": "T",
+    "820867672874418186": "T"
+  },
+  "question": {
+    "04jk5k": "520868474742898708",
+    "0se8h0": "798741510685851681",
+    "1qtz13": "520868474742898708",
+    "2dkfsv": "687623503985508380",
+    "2n21k4": "687623503985508380",
+    "2xhm07": "520868474742898708",
+    "3h3n43": "743077749064859779",
+    "3zov2m": "700298171745697804",
+    "42sip6": "432160630682681347",
+    "4cn8n4": "520868474742898708",
+    "4g66w3": "520868474742898708",
+    "4uaujb": "687623503985508380",
+    "4v0qil": "669662685843030060",
+    "57185e": "290412477781508096",
+    "634nwu": "734560292024877056",
+    "64lv44": "290412477781508096",
+    "656gt4": "520868474742898708",
+    "6k52m9": "674813875291422720",
+    "741dul": "700298171745697804",
+    "74cmra": "707434517555576873",
+    "7gsfgg": "520868474742898708",
+    "7yeli8": "520868474742898708",
+    "81c2pc": "520868474742898708",
+    "87fr6t": "520868474742898708",
+    "8gk1tw": "687623503985508380",
+    "a21e8k": "700298171745697804",
+    "a6irh0": "520868474742898708",
+    "azr0iw": "687623503985508380",
+    "b3eni1": "520868474742898708",
+    "b8ezf8": "687623503985508380",
+    "bddpzq": "520868474742898708",
+    "contents": {
+      "04jk5k": " 내용 문의",
+      "0se8h0": " `=한강수온` 을 입력하면 ```pyTraceback (most recent call last):\n  File \"discordbot.py\", line 2773, in on_message\n    rdata = r.json()\n  File \"/usr/local/lib/python3.6/dist-packages/requests/models.py\", line 898, in json\n    return complexjson.loads(self.text, **kwargs)\n  File \"/usr/lib/python3.6/json/__init__.py\", line 354, in loads\n    return _default_decoder.decode(s)\n  File \"/usr/lib/python3.6/json/decoder.py\", line 339, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n  File \"/usr/lib/python3.6/json/decoder.py\", line 357, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)``` 가 뜹니다.",
+      "1qtz13": " 내용 문의",
+      "2dkfsv": " 아니 ㅅㅂ 이게 뭐야",
+      "2n21k4": " TODO: cov. 글씨 흰색 수정",
+      "2xhm07": " 내용 문의",
+      "3h3n43": " 어쩌구저쩌구",
+      "3zov2m": " 만온ㄴㅇ옺ㄴ토ㅗㅇㅇ",
+      "42sip6": " 이거 꺼 주세요(?)",
+      "4cn8n4": " 전체 dm 못쓰는데 도움말에 아직도 남아 있어요",
+      "4g66w3": " 내용 문의",
+      "4uaujb": " 안녀어어어어어",
+      "4v0qil": " 관리자님, 저에게 디엠좀 보내주세요. 여쭤볼게 있습니다.",
+      "57185e": " 레오님 자가진단 라이브러리 사용하고 있는데요 리턴값을 어디서 보는건지 모르겠어서 토큰을 볼수가 없습니다 리턴값을 어디서 봐야되는거죠?",
+      "634nwu": " 레오봇은 오픈소스인가여?",
+      "64lv44": " 제가 파이썬에 대해 잘 알지 못해서 이해하기 어렵습니다 \n딕셔너리를 보는 방법에 대해 알려주실수 있으신가요? 2일동안 찾아보다가 정말 모르겠어서 여쭤봅니다",
+      "656gt4": " 내용 문의",
+      "6k52m9": " 레오봇 주인이 누군가요 ! Tim23#9999 한테 디엠 보내주세요 Team End ™️ 에 봇 제작자가 아직 있는지 검사하기 위한 절차입니다",
+      "741dul": " 도움말에 `레오야 단어` 명령어에 오타남 ||봇과 대화를 힐수 있습니다.||",
+      "74cmra": " 방생성(음성챗) 어떻게 셋팅하나요?어떤썹은 하기도 하던데",
+      "7gsfgg": " 내용 문의",
+      "7yeli8": " 내용 문의",
+      "81c2pc": " 내용 문의",
+      "87fr6t": " 내용 문의",
+      "8gk1tw": " 안녕하세요ㅛ",
+      "a21e8k": " 개인 접두사가 필요합니당",
+      "a6irh0": " 내용 문의",
+      "azr0iw": " 아니 ㅅㅂ 이게 뭐야",
+      "b3eni1": " 내용 문의",
+      "b8ezf8": " 기능을 애용하도록 하자 ^^",
+      "bddpzq": " 내용 문의",
+      "cs7hvl": " 자가진단이 무한로딩인데 어떡해요",
+      "d7nvoe": " 안녕하세요 반갑습니다",
+      "ern4kq": " 자가진단 모듈을 잘 쓰고있다가 오늘 해보니 알수없는 에러가 발생했다고 하고 진행이 불가한데 혹시 확인해주실수있나요?",
+      "g2f85t": " 내용 문의",
+      "g6zn2b": " 레오봇은 무슨 언어로 만들어졌나여?",
+      "gdagw8": " ㅇㄻㄴㄻㄴㅇㄹ",
+      "gne3br": " 내용 문의",
+      "h59jps": " 잘생긴 저를 봐서라도 풀어주세요",
+      "h9u3vm": " 정보 기능에서 다른 분, 봇들(레오봇 제외)의 프로필이 오프라인으로 나옵니다",
+      "i65gm3": " 내용 문의",
+      "jnle3f": " 레오봇이 너무 느려터졌어요 트레시같아요",
+      "jqtp66": " 레오봇은 무슨 언어로 만들어졌나여?",
+      "k15cyv": " 레오봇이 느려터졌어요",
+      "k3ed4x": " WTFWTFWTFWTF",
+      "klx1ry": " 내용 문의",
+      "lizvh6": " 레오봇 개인정보 처리방침 & 이용약관에 동의하셧어요!\n이제 레오봇의 모든 기능을 이용하실수 있어요! :nitro_boost: 에서 동의하셧어요 맟춤법이 틀렸네용 동의하셨어요 가 맞는 거 아닌가용? 아니라면 죄송합니다;;",
+      "mogwoi": " 레오봇덕분에 저희 방 테러한 사람들을 다 막았어용! 하핳",
+      "mpnfq9": " 구조 확인요청이 뜨던데 왜 뜨는건가요?",
+      "on8txp": " 내용 =도움말 기타에서 봇 초대에 초대링크를 눌렀는데 초대가 안됩니다 링크가 잘못된 듯 하네요",
+      "p8d8fb": " 643nwu 아닙니당",
+      "p928cq": " 봇 꺼주세요",
+      "plf2sf": " 안녕동현아 열심히 해!",
+      "pytx70": " TODO: cov. 글씨 흰색 수정",
+      "rc0u6n": " 저.. 서버 관리잔데요 음악 재생하고 =clear가 안 되네요? 권한 필요한다고 하고 관리잔데 그러네요;;",
+      "svbkpj": " 개인정보 처리 방침을 동의 해도 계속 하라고 뜹니다",
+      "szkmjo": " null 님이 적어서",
+      "tb0vcn": " ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "tvms5a": " 내용 문의",
+      "u6zvqt": " 내용 문의",
+      "unfzd1": " 그러게요 왜 이렇게 느리죠 해명좀",
+      "uobgux": " 내용 문의",
+      "uogb13": " 레오봇은 오픈소스인가여?",
+      "v65vpg": " `=트위치정보 wkdusfl0924` 는 왜 안되는거죠",
+      "wc5fnq": " 개인정보 처리방침&이용약관에서 넘어가지 않고 계속 반복됩니다",
+      "z2luj5": " 내용 문의",
+      "zdzrh7": " 내용 문의"
+    },
+    "cs7hvl": "746968985869877300",
+    "d7nvoe": "687623503985508380",
+    "ern4kq": "300535826088067072",
+    "g2f85t": "520868474742898708",
+    "g6zn2b": "734560292024877056",
+    "gdagw8": "687623503985508380",
+    "gne3br": "520868474742898708",
+    "h59jps": "737127630960066630",
+    "h9u3vm": "511070420179615744",
+    "i65gm3": "520868474742898708",
+    "jnle3f": "687623503985508380",
+    "jqtp66": "734560292024877056",
+    "k15cyv": "687623503985508380",
+    "k3ed4x": "687866011013218349",
+    "klx1ry": "520868474742898708",
+    "lizvh6": "764420312841977878",
+    "mogwoi": "403511023816015872",
+    "mpnfq9": "511070420179615744",
+    "on8txp": "620212641016709151",
+    "p8d8fb": "687623503985508380",
+    "p928cq": "432160630682681347",
+    "plf2sf": "520868474742898708",
+    "pytx70": "687623503985508380",
+    "rc0u6n": "764420312841977878",
+    "svbkpj": "732403713112801373",
+    "szkmjo": "447934468603379724",
+    "tb0vcn": "700298171745697804",
+    "tvms5a": "520868474742898708",
+    "u6zvqt": "520868474742898708",
+    "unfzd1": "526958314647453706",
+    "uobgux": "520868474742898708",
+    "uogb13": "734560292024877056",
+    "v65vpg": "526958314647453706",
+    "wc5fnq": "746968985869877300",
+    "z2luj5": "520868474742898708",
+    "zdzrh7": "520868474742898708"
+  },
+  "reguser": {
+    "775106": "R",
+    "102102717165506560": "R",
+    "171571745403305984": "R",
+    "175589848982355978": "R",
+    "211838318067974144": "R",
+    "235342301910663179": "R",
+    "260303569591205888": "R",
+    "261102692804460544": "R",
+    "261752828861743104": "R",
+    "264452477322002433": "R",
+    "270948648299266049": "R",
+    "274728972602966017": "R",
+    "277006365598154753": "R",
+    "277790822311657472": "R",
+    "280855156608860160": "R",
+    "281729627003682818": "R",
+    "283080386236383234": "R",
+    "283185801913696256": "R",
+    "290074206593482752": "R",
+    "300483202261450762": "R",
+    "301286718760419328": "R",
+    "307729130596728832": "R",
+    "312950140019277835": "R",
+    "315102194615713812": "R",
+    "315366609369825280": "R",
+    "316834475780734976": "R",
+    "318699196272082964": "R",
+    "319761411708289025": "R",
+    "321655191399170049": "R",
+    "323239007674957824": "R",
+    "328214475327143936": "R",
+    "328494107569946624": "R",
+    "329151297469022231": "R",
+    "330380636923756545": "R",
+    "334802084174233601": "R",
+    "340817380727062529": "R",
+    "346529907716915200": "R",
+    "348266381407682572": "R",
+    "348688226183282689": "R",
+    "353510465877573645": "R",
+    "354966493491888128": "R",
+    "356408313577078785": "R",
+    "363387012054646784": "R",
+    "364026003636355074": "R",
+    "364306573247381506": "R",
+    "365808297040805889": "R",
+    "366121651018006539": "R",
+    "366523053816938500": "R",
+    "368337400801394689": "R",
+    "370540673948188673": "R",
+    "376345813900591106": "R",
+    "379526379806654466": "R",
+    "379577328482910222": "R",
+    "379600862181326848": "R",
+    "379775547838038028": "R",
+    "383102165796913153": "R",
+    "384227121267998722": "R",
+    "384284264352579595": "R",
+    "386166430502223873": "R",
+    "386715407697969173": "R",
+    "388674940699672576": "R",
+    "392211630102151170": "R",
+    "393674169243402240": "R",
+    "393773220114989059": "R",
+    "394119002424868865": "R",
+    "394297492373504012": "R",
+    "394427203787554816": "R",
+    "395485062465978381": "R",
+    "395849386107863040": "R",
+    "396262530227503106": "R",
+    "397650745467469844": "R",
+    "398624527682371594": "R",
+    "398690434760835072": "R",
+    "398710587749564426": "R",
+    "399066425773522954": "R",
+    "399533659167653889": "R",
+    "401345936732979201": "R",
+    "403511023816015872": "R",
+    "403780796814589953": "R",
+    "404082153920528384": "R",
+    "404615239519174678": "R",
+    "404816131036020756": "R",
+    "405698890155819008": "R",
+    "405714654065721344": "R",
+    "407400796083453953": "R",
+    "408097730804711424": "R",
+    "409177682899632130": "R",
+    "409261071531245568": "R",
+    "409637681513889792": "R",
+    "410427490763407381": "R",
+    "410657805960478720": "R",
+    "411753772205867009": "R",
+    "411803408379543552": "R",
+    "412183880779694080": "R",
+    "413532572384100364": "R",
+    "413857658538295297": "R",
+    "414036935938670617": "R",
+    "414037193854550016": "R",
+    "414347859710836736": "R",
+    "414686196342587393": "R",
+    "415139705580027914": "R",
+    "416896428762333184": "R",
+    "417640631859675137": "R",
+    "417963171697917955": "R",
+    "419383060732313601": "R",
+    "419503339043029004": "R",
+    "421213803204575232": "R",
+    "421663963152121876": "R",
+    "422352900933812224": "R",
+    "422745309144154115": "R",
+    "423037094320013312": "R",
+    "426743546087866398": "R",
+    "432038330264190977": "R",
+    "432160630682681347": "R",
+    "432478841756188682": "R",
+    "433891040525811712": "R",
+    "435841275632287745": "R",
+    "436043736825462785": "R",
+    "439767388020408321": "R",
+    "440451696615751691": "R",
+    "440730006495297547": "R",
+    "441202161481809922": "R",
+    "441518798001012738": "R",
+    "441936781206749197": "R",
+    "443734180816486441": "R",
+    "443756119077289984": "R",
+    "444101258207559680": "R",
+    "445529063528857611": "R",
+    "447688300497469451": "R",
+    "447934468603379724": "R",
+    "448483127858298890": "R",
+    "449913377230159873": "R",
+    "456296290767339531": "R",
+    "457737355676221441": "R",
+    "459681152081330176": "R",
+    "460267770337296384": "R",
+    "461495816142716928": "R",
+    "464712715487805442": "R",
+    "465356351497830400": "R",
+    "466138385224957952": "R",
+    "467093226533289984": "R",
+    "467093476559814657": "R",
+    "467221960439365633": "R",
+    "467227091805405205": "R",
+    "467322684817276928": "R",
+    "467666650183761920": "R",
+    "467721977902268416": "R",
+    "469393014096396289": "R",
+    "470006759600422943": "R",
+    "471907777619427339": "R",
+    "473445350364151808": "R",
+    "473838055535673345": "R",
+    "474094390441410561": "R",
+    "474595794176049182": "R",
+    "475152764281028628": "R",
+    "475860628284637195": "R",
+    "476152575385927711": "R",
+    "478530128209641482": "R",
+    "478922964205568002": "R",
+    "480192426519166978": "R",
+    "480692516186882049": "R",
+    "481076426712285194": "R",
+    "482095844804526080": "R",
+    "484108389387862026": "R",
+    "484964488328773635": "R",
+    "485365757103046656": "R",
+    "485603073998454806": "R",
+    "485700659170246657": "R",
+    "487563862804267010": "R",
+    "490169055496372224": "R",
+    "490878001714692117": "R",
+    "491547230860476417": "R",
+    "491680865093419038": "R",
+    "491937135201615874": "R",
+    "492970972240936961": "R",
+    "494012709004640257": "R",
+    "495165143156785152": "R",
+    "495822986662772745": "R",
+    "495957280785694737": "R",
+    "498135140912988173": "R",
+    "500251192883150859": "R",
+    "500417144467488780": "R",
+    "500916214923657238": "R",
+    "504934991957065728": "R",
+    "505671172793303040": "R",
+    "507149530400030720": "R",
+    "508544573170253860": "R",
+    "508967051302535179": "R",
+    "509990516570718208": "R",
+    "510376942059388956": "R",
+    "511070420179615744": "R",
+    "511832500902035486": "R",
+    "512581218609528832": "R",
+    "515101583944450089": "R",
+    "517331695809331200": "R",
+    "517880464489447454": "R",
+    "519392259708551168": "R",
+    "520578214754516992": "R",
+    "520868474742898708": "R",
+    "524114627647373322": "R",
+    "524515155254444032": "R",
+    "526039408370122772": "R",
+    "526766407346683927": "R",
+    "526958314647453706": "R",
+    "527029817380700183": "R",
+    "528038872651792385": "R",
+    "528423884697894913": "R",
+    "529140641012383744": "R",
+    "529954023235780608": "R",
+    "530329856794296320": "R",
+    "531027809238253583": "R",
+    "532535949335461888": "R",
+    "533198849817313310": "R",
+    "533701508664000522": "R",
+    "534145145109741569": "R",
+    "534214957110394881": "R",
+    "539337558182592523": "R",
+    "542375676800401428": "R",
+    "542601779712491523": "R",
+    "542613221954158603": "R",
+    "542620661672312832": "R",
+    "543677468851044374": "R",
+    "543702058545578004": "R",
+    "544503896140152853": "R",
+    "545606760703066115": "R",
+    "546577953635434497": "R",
+    "546683147253841935": "R",
+    "547566657271496704": "R",
+    "547994373648809985": "R",
+    "548454446498185217": "R",
+    "548467180145082369": "R",
+    "549143733057093674": "R",
+    "549416915370770435": "R",
+    "551736494600224778": "R",
+    "552103947662524416": "R",
+    "552348635283587082": "R",
+    "553553041513775107": "R",
+    "554110849296629797": "R",
+    "555677424646357003": "R",
+    "556108394755391499": "R",
+    "557119176590884864": "R",
+    "558966154450698265": "R",
+    "559244914349572106": "R",
+    "561053885666426890": "R",
+    "564266195209945146": "R",
+    "565871037129162752": "R",
+    "566867841509359696": "R",
+    "567264504350507009": "R",
+    "568415101384785941": "R",
+    "569151559150075904": "R",
+    "571515951166521374": "R",
+    "573115999377817611": "R",
+    "574074150327418893": "R",
+    "574102258766315520": "R",
+    "574148478465474581": "R",
+    "574466197035155456": "R",
+    "574871157006794752": "R",
+    "575268239995699200": "R",
+    "576761568315047956": "R",
+    "579311412204011530": "R",
+    "579508554822713345": "R",
+    "579944177077452800": "R",
+    "580047857344708619": "R",
+    "580398897948786690": "R",
+    "581440693285945345": "R",
+    "581665555790954517": "R",
+    "582150109744332800": "R",
+    "586930326979215390": "R",
+    "587119647879462913": "R",
+    "589806494296571904": "R",
+    "592216183177216010": "R",
+    "593723451399995402": "R",
+    "594183416266752000": "R",
+    "594402419161432064": "R",
+    "595235700647919637": "R",
+    "595890067055181825": "R",
+    "596804093037772818": "R",
+    "598495650996289576": "R",
+    "601351869620682754": "R",
+    "602010645822701568": "R",
+    "602735926120284161": "R",
+    "602780182658678784": "R",
+    "603234650386726923": "R",
+    "604927195772878878": "R",
+    "605814796339904522": "R",
+    "606019093446787127": "R",
+    "607515204770856978": "R",
+    "607633814512205833": "R",
+    "611010768158064660": "R",
+    "612673201910317056": "R",
+    "613349651495518208": "R",
+    "614298680823906304": "R",
+    "614453586218450964": "R",
+    "616186803346604085": "R",
+    "616570697875193866": "R",
+    "617249103616933918": "R",
+    "617286714615922698": "R",
+    "619494566797770752": "R",
+    "620212641016709151": "R",
+    "621259717808750605": "R",
+    "624592005489491968": "R",
+    "625755026366791700": "R",
+    "626380398414266368": "R",
+    "626788835879288856": "R",
+    "627419477805629450": "R",
+    "627444520174223373": "R",
+    "628217100519079946": "R",
+    "628595345798201355": "R",
+    "629195809648410637": "R",
+    "629668288833519616": "R",
+    "630238107609989151": "R",
+    "630261078688923668": "R",
+    "631081691087372299": "R",
+    "631418993793695744": "R",
+    "632233675785895960": "R",
+    "632472244467138561": "R",
+    "633627348096253953": "R",
+    "634388702600101921": "R",
+    "635079513939771403": "R",
+    "637499286569091072": "R",
+    "638281103349776384": "R",
+    "640365186129068035": "R",
+    "644029319198408734": "R",
+    "644456655794470919": "R",
+    "647026309905645579": "R",
+    "647736678815105037": "R",
+    "648022788002676737": "R",
+    "648053548470239242": "R",
+    "650558800146726913": "R",
+    "651800807183876112": "R",
+    "653556458088300555": "R",
+    "654570201072795659": "R",
+    "655019767169810470": "R",
+    "655230074504609814": "R",
+    "655690042643316737": "R",
+    "657773087571574784": "R",
+    "658069188606165022": "R",
+    "659037810992480259": "R",
+    "659347710968856576": "R",
+    "659764132559454208": "R",
+    "660067178170810389": "R",
+    "660326571042930690": "R",
+    "660428937213771776": "R",
+    "660875497592586250": "R",
+    "662178772522369046": "R",
+    "664056735291670528": "R",
+    "664145379385802765": "R",
+    "664401558179676170": "R",
+    "665687921482924054": "R",
+    "667333013331378186": "R",
+    "667970023150714897": "R",
+    "668321151440781316": "R",
+    "669416887813275664": "R",
+    "669662685843030060": "R",
+    "669730404986519582": "R",
+    "670461408189612050": "R",
+    "670946850638921747": "R",
+    "671178056160772098": "R",
+    "671681504266551300": "R",
+    "672442742319611915": "R",
+    "673078321520836628": "R",
+    "673471748599054336": "R",
+    "673535252848705546": "R",
+    "673809284395696128": "R",
+    "673825925707726855": "R",
+    "674110472106278952": "R",
+    "674544960502235136": "R",
+    "674600719004729365": "R",
+    "674813875291422720": "R",
+    "676022618134151198": "R",
+    "676043468426182667": "R",
+    "676298820874797089": "R",
+    "676406028551585815": "R",
+    "677107859590217748": "R",
+    "677198987018895361": "R",
+    "678465883617886244": "R",
+    "679263069284597782": "R",
+    "679606947527393305": "R",
+    "680109129276063765": "R",
+    "680348675586654262": "R",
+    "680760143318876180": "R",
+    "681028291150217357": "R",
+    "681107913850486784": "R",
+    "681348070260211713": "R",
+    "681348182680272923": "R",
+    "681403207620100135": "R",
+    "681801837292027943": "R",
+    "681970833450729505": "R",
+    "682210523252785281": "R",
+    "682466801594007552": "R",
+    "682482458427523116": "R",
+    "683515568137175050": "R",
+    "683616898222653484": "R",
+    "684058398311972961": "R",
+    "684854871203119184": "R",
+    "684977848477679616": "R",
+    "685039026939494411": "R",
+    "685497398113730560": "R",
+    "686770295209721867": "R",
+    "686853584243261443": "R",
+    "687113233651466265": "R",
+    "687208021637726231": "R",
+    "687449788303671324": "R",
+    "687623503985508380": "R",
+    "687866011013218349": "R",
+    "687898605713227806": "R",
+    "689060135615594536": "R",
+    "689666023439335426": "R",
+    "689821741740195873": "R",
+    "690033674003152907": "R",
+    "690034926992883818": "R",
+    "690047606491185180": "R",
+    "690403718440550401": "R",
+    "690482239049564182": "R",
+    "690500873616621600": "R",
+    "690915189968601098": "R",
+    "691094674789630004": "R",
+    "691325546919100422": "R",
+    "691476218549108767": "R",
+    "691555326238916678": "R",
+    "691617123688120361": "R",
+    "691894382697119775": "R",
+    "691987239302987837": "R",
+    "691990533454823435": "R",
+    "692292280928698399": "R",
+    "692689104449830983": "R",
+    "692755195255455855": "R",
+    "693063491837493278": "R",
+    "693640457162457088": "R",
+    "694036482436104204": "R",
+    "694419131667185754": "R",
+    "694510313185476638": "R",
+    "695265568499957841": "R",
+    "695525479230341250": "R",
+    "695593410937094225": "R",
+    "696555680450084865": "R",
+    "696599794990317568": "R",
+    "696708173138100255": "R",
+    "697245070134476831": "R",
+    "698853225306128425": "R",
+    "698855635566985257": "R",
+    "699121440644923442": "R",
+    "699186210605629520": "R",
+    "700298171745697804": "R",
+    "700517833658073130": "R",
+    "700561761690189875": "R",
+    "700892702652235797": "R",
+    "700967119696822273": "R",
+    "701081918736826491": "R",
+    "701292057431375892": "R",
+    "701837200488267846": "R",
+    "702120931690151949": "R",
+    "703612060579397664": "R",
+    "703646892256657419": "R",
+    "703842052818993254": "R",
+    "704214121788342303": "R",
+    "704579479695130624": "R",
+    "704843817206939688": "R",
+    "704887687789805581": "R",
+    "704930959362883604": "R",
+    "705045318680445028": "R",
+    "705755398950354944": "R",
+    "706033112848793630": "R",
+    "706054952342126593": "R",
+    "706125928408940635": "R",
+    "706152084805779457": "R",
+    "706546520216043542": "R",
+    "706872631743479861": "R",
+    "707058564283367444": "R",
+    "707069030963347497": "R",
+    "707434517555576873": "R",
+    "707533814347464735": "R",
+    "707930677655371866": "R",
+    "707959416338644993": "R",
+    "708544025220874250": "R",
+    "708649909997535242": "R",
+    "709229557420392449": "R",
+    "709342076738994228": "R",
+    "709718720658014218": "R",
+    "710127089994563615": "R",
+    "710818278439911434": "R",
+    "710978585598492684": "R",
+    "711069152630145145": "R",
+    "711861483746885644": "R",
+    "712264227443834930": "R",
+    "712977438019158016": "R",
+    "713267646258348042": "R",
+    "713592990995709954": "R",
+    "713984186205339688": "R",
+    "714090530258026546": "R",
+    "714092453128306778": "R",
+    "714276973253361764": "R",
+    "714329880304681022": "R",
+    "714401519851667496": "R",
+    "714736989106208791": "R",
+    "715194941353099284": "R",
+    "715230098344771644": "R",
+    "715714186990321727": "R",
+    "715723109180637184": "R",
+    "716159602823135293": "R",
+    "716914025417539635": "R",
+    "717731890718834749": "R",
+    "718118327544971346": "R",
+    "718272468082491452": "R",
+    "718489161098723329": "R",
+    "719003738228129832": "R",
+    "720112607268307004": "R",
+    "721260958906843186": "R",
+    "721265842117017620": "R",
+    "721314614541025310": "R",
+    "723491335235043419": "R",
+    "723751784534900738": "R",
+    "723819483147534337": "R",
+    "723837228660555816": "R",
+    "723898541105348731": "R",
+    "724114499056959509": "R",
+    "724420431750234132": "R",
+    "724581317798395986": "R",
+    "724609620378910742": "R",
+    "724838200765317171": "R",
+    "725125896964538490": "R",
+    "725158840231788576": "R",
+    "725945454260519013": "R",
+    "726350177601978438": "R",
+    "726402096844505169": "R",
+    "726437477019287644": "R",
+    "726608022142713868": "R",
+    "726673961567649925": "R",
+    "726686705209573466": "R",
+    "726717205299068930": "R",
+    "726744973294174238": "R",
+    "727176453753405450": "R",
+    "727454682271973387": "R",
+    "728076999494467615": "R",
+    "728242513185603673": "R",
+    "728644061853909104": "R",
+    "728901854372692008": "R",
+    "730396577683996782": "R",
+    "731307141071110218": "R",
+    "731397433686229052": "R",
+    "731566013379903649": "R",
+    "732403713112801373": "R",
+    "732595014223528038": "R",
+    "733192953023168523": "R",
+    "733625215895994388": "R",
+    "734000161533198465": "R",
+    "734462950462718046": "R",
+    "734560292024877056": "R",
+    "734591262195187782": "R",
+    "734614362844823593": "R",
+    "735116446736318555": "R",
+    "735124522319085659": "R",
+    "735433155422453780": "R",
+    "735517927155040306": "R",
+    "735813843988643861": "R",
+    "736075831226662984": "R",
+    "736121388909461556": "R",
+    "736434141033136189": "R",
+    "736551447411556412": "R",
+    "736750469593956392": "R",
+    "736868800506495067": "R",
+    "737127630960066630": "R",
+    "737473348141056020": "R",
+    "737475912022360065": "R",
+    "737529539399516200": "R",
+    "738352301651001395": "R",
+    "738366096750542921": "R",
+    "738556081659183194": "R",
+    "738637934223294466": "R",
+    "738930108357672980": "R",
+    "738939500901957723": "R",
+    "740047932119711817": "R",
+    "740194036845117491": "R",
+    "740210473038905434": "R",
+    "740213372074852384": "R",
+    "740489543475527711": "R",
+    "741109989309153290": "R",
+    "741141327374450688": "R",
+    "741232294429196331": "R",
+    "741283476979974196": "R",
+    "742329073174577163": "R",
+    "742556932333764638": "R",
+    "743077749064859779": "R",
+    "743398361733791825": "R",
+    "743706980274667610": "R",
+    "743833401160892456": "R",
+    "743842944804716564": "R",
+    "744916168137113632": "R",
+    "745053834182787142": "R",
+    "745092169442000987": "R",
+    "745165850922975322": "R",
+    "745233908198670367": "R",
+    "745292945544183950": "R",
+    "745525778669764669": "R",
+    "745641409066827876": "R",
+    "745916253276864533": "R",
+    "746031662412071002": "R",
+    "746371755798560768": "R",
+    "746612519136919644": "R",
+    "746642459244888176": "R",
+    "746749982035673149": "R",
+    "746858524243525835": "R",
+    "746923295898599534": "R",
+    "746968985869877300": "R",
+    "747280649312010280": "R",
+    "747315231474188418": "R",
+    "747370096082550824": "R",
+    "747574300562948237": "R",
+    "747816637671145472": "R",
+    "748446853477040169": "R",
+    "749192285610311720": "R",
+    "749194996724531231": "R",
+    "749195692957892639": "R",
+    "749215890620285008": "R",
+    "750203185024467004": "R",
+    "750544157399056395": "R",
+    "750843840776372253": "R",
+    "750954821603033088": "R",
+    "751258367305187402": "R",
+    "751319815385383013": "R",
+    "751348357410193459": "R",
+    "751403603586973747": "R",
+    "751433131332075532": "R",
+    "751466568407449660": "R",
+    "751996493912604753": "R",
+    "752386648553029663": "R",
+    "753606349463617556": "R",
+    "753874017135493121": "R",
+    "753932899899670540": "R",
+    "753981013134409810": "R",
+    "754285326125498368": "R",
+    "754693025086570578": "R",
+    "755022450911346768": "R",
+    "755035652927520798": "R",
+    "755400300084461599": "R",
+    "755634547495927818": "R",
+    "755773465692209153": "R",
+    "756045138542723082": "R",
+    "756782638974369843": "R",
+    "756802413741998160": "R",
+    "757627675656585366": "R",
+    "757877399072276500": "R",
+    "758113256799207564": "R",
+    "758244072573370380": "R",
+    "758626565692588053": "R",
+    "758647855459729418": "R",
+    "758891650625568809": "R",
+    "759250802995888160": "R",
+    "759413243034337321": "R",
+    "760149174758146088": "R",
+    "760442427281637376": "R",
+    "760694349222379530": "R",
+    "760714975563612200": "R",
+    "762257079107846174": "R",
+    "762299632939434017": "R",
+    "762809728266272779": "R",
+    "763122979856056340": "R",
+    "763312320884506675": "R",
+    "764420312841977878": "R",
+    "764430626287124511": "R",
+    "764774885820989480": "R",
+    "764779759401304064": "R",
+    "764842401361035276": "R",
+    "765097208860770345": "R",
+    "765160452618453002": "R",
+    "765172123139571733": "R",
+    "765954855121846312": "R",
+    "766919564318998588": "R",
+    "768378763653283860": "R",
+    "768432582991020053": "R",
+    "770287892303708220": "R",
+    "771391505435852831": "R",
+    "773201350254657537": "R",
+    "773887959765745664": "R",
+    "775958647415111680": "R",
+    "776788695558127626": "R",
+    "777158806697672744": "R",
+    "778520386929164308": "R",
+    "779992429884342272": "R",
+    "781166244535336971": "R",
+    "783345260797231143": "R",
+    "783504846102724650": "R",
+    "783703279870672897": "R",
+    "783934295692541959": "R",
+    "783974897536729089": "R",
+    "783992008418525184": "R",
+    "784706869566111765": "R",
+    "785102724814733323": "R",
+    "785800803213770752": "R",
+    "788012493971783680": "R",
+    "788323023823568916": "R",
+    "788914402454798407": "R",
+    "789371145018277898": "R",
+    "789371505917427712": "R",
+    "789761021228351538": "R",
+    "789836173471121429": "R",
+    "791914933078982676": "R",
+    "792252554330767381": "R",
+    "792956976547889172": "R",
+    "793073092506812447": "R",
+    "794114018012299295": "R",
+    "795243498055139340": "R",
+    "795902868359741490": "R",
+    "796346530138292274": "R",
+    "798741510685851681": "R",
+    "799316223871418368": "R",
+    "800246563682648107": "R",
+    "800373008144400404": "R",
+    "800744411922694184": "R",
+    "801011743983665153": "R",
+    "801070524779986965": "R",
+    "801083573066006528": "R",
+    "801502521511247922": "R",
+    "801651892085981195": "R",
+    "802595066551074816": "R",
+    "802724808625487912": "R",
+    "802749006610038824": "R",
+    "803887843742842920": "R",
+    "806153695552602175": "R",
+    "807214780334080011": "R",
+    "808168630495739945": "R",
+    "809785919594168381": "R",
+    "811151406484422686": "R",
+    "813336427521245194": "R",
+    "817744748822790174": "R"
+  },
+  "suggest": {
+    "ccode": "65473"
+  },
+  "warn": {
+    "582525945898860564": {
+      "159985870458322944": "2"
+    },
+    "699084303669133332": {
+      "364306573247381506": "1",
+      "551574545522229251": "1",
+      "698855635566985257": "2",
+      "698860134281248779": "1",
+      "728022491636826233": "1",
+      "803877246124425226": "1"
+    },
+    "705282939365359616": {
+      "345265069132742657": "1",
+      "405714654065721344": "2"
+    },
+    "709252832083181598": {
+      "470006759600422943": "2"
+    },
+    "713441428495269978": {
+      "159985870458322944": "1",
+      "725158840231788576": "2"
+    },
+    "716854620739338412": {
+      "485378265112903681": "2"
+    },
+    "720897358279344229": {
+      "235088799074484224": "1",
+      "261752828861743104": "1",
+      "413532572384100364": "4",
+      "419476138331602946": "2",
+      "508967051302535179": "4",
+      "660326571042930690": "1",
+      "681107913850486784": "1",
+      "689666023439335426": "4",
+      "692755195255455855": "2",
+      "705755398950354944": "3",
+      "707058564283367444": "3",
+      "725158840231788576": "1",
+      "726717205299068930": "1",
+      "733192953023168523": "4",
+      "737127630960066630": "4",
+      "738352301651001395": "2",
+      "758113256799207564": "2",
+      "764842401361035276": "1"
+    },
+    "728977521969856552": {
+      "736466910618583063": "4"
+    },
+    "730203459034284062": {
+      "350999210382065675": "1"
+    },
+    "731783217790844939": {
+      "409177682899632130": "2"
+    },
+    "734778666432593930": {
+      "680699335029162032": "1"
+    },
+    "738248070763905114": {
+      "185476724627210241": "1",
+      "725158840231788576": "2"
+    },
+    "744236514610774158": {
+      "320045350356516864": "1"
+    },
+    "746000098676441189": {
+      "695593410937094225": "1"
+    },
+    "746108931943694336": {
+      "467221960439365633": "3"
+    },
+    "749521923553230898": {
+      "403511023816015872": "1"
+    },
+    "761541402580353045": {
+      "677107859590217748": "3"
+    },
+    "764847665891639327": {
+      "218010938807287808": "1",
+      "399066425773522954": "4"
+    },
+    "772120015826059275": {
+      "698409750173450331": "4"
+    },
+    "772382517923414056": {
+      "510402290977341441": "1"
+    },
+    "774126302969069588": {
+      "496853315917971466": "1",
+      "696708173138100255": "1",
+      "720993764965089281": "4",
+      "722803671548559391": "1"
+    },
+    "778591172847075338": {
+      "397676354776072192": "1"
+    },
+    "788353245043097611": {
+      "643004513707360271": "2",
+      "712977438019158016": "4"
+    },
+    "790137034694066196": {
+      "670461408189612050": "1"
+    },
+    "805045124047306753": {
+      "444101258207559680": "1",
+      "747574300562948237": "4",
+      "802595066551074816": "1"
+    },
+    "806049452703088670": {
+      "666611399497351168": "1"
+    },
+    "810367327622660126": {
+      "689404704471515139": "1"
+    },
+    "821185739312201728": {
+      "764420312841977878": "1"
+    }
+  },
+  "warnkicksetting": {
+    "582525945898860564": 3,
+    "705282939365359616": 3,
+    "709252832083181598": 2,
+    "728961770714300447": 5,
+    "731783217790844939": 7,
+    "738733369151586365": 10,
+    "750912115287785522": 3,
+    "769512996212047883": 5,
+    "772382517923414056": 2,
+    "787494717981982740": 5,
+    "788353245043097611": 5,
+    "800007292811739137": 3,
+    "810367327622660126": 10
+  },
+  "webautocheck": {
+    "020205-추인엽": {
+      "birthday": "020205",
+      "level": "고등학교",
+      "name": "효천고등학교",
+      "password": "1234",
+      "phonenum": "01071969616",
+      "region": "전남",
+      "studentName": "추인엽"
+    },
+    "020419-김범준": {
+      "birthday": "020419",
+      "level": "고등학교",
+      "name": "의정부공업고등학교",
+      "password": "7237",
+      "phonenum": "01057649792",
+      "region": "경기",
+      "studentName": "김범준"
+    },
+    "020521-정승우": {
+      "birthday": "020521",
+      "level": "고등학교",
+      "name": "광명북고등학교",
+      "password": "4312",
+      "phonenum": "01046656255",
+      "region": "경기",
+      "studentName": "정승우"
+    },
+    "020810-김태동": {
+      "birthday": "020810",
+      "level": "고등학교",
+      "name": "영주고등학교",
+      "password": "0810",
+      "phonenum": "0102689390",
+      "region": "경북",
+      "studentName": "김태동"
+    },
+    "020909-최인수": {
+      "birthday": "020909",
+      "level": "고등학교",
+      "name": "가야고등학교",
+      "password": "0355",
+      "phonenum": "01055310896",
+      "region": "부산",
+      "studentName": "최인수"
+    },
+    "020917-김동현": {
+      "birthday": "020917",
+      "level": "고등학교",
+      "name": "가야고등학교",
+      "password": "3022",
+      "phonenum": "01030226293",
+      "region": "부산",
+      "studentName": "김동현"
+    },
+    "030111-성현창": {
+      "birthday": "030111",
+      "level": "고등학교",
+      "name": "세종과학예술영재학교",
+      "phonenum": "01065546334",
+      "region": "세종",
+      "studentName": "성현창"
+    },
+    "030114-이기철": {
+      "birthday": "030114",
+      "level": "고등학교",
+      "name": "대진디자인고등학교",
+      "password": "2580",
+      "phonenum": "01043329985",
+      "region": "서울",
+      "studentName": "이기철"
+    },
+    "030128-전현정": {
+      "birthday": "030128",
+      "level": "고등학교",
+      "name": "부안고등학교",
+      "password": "0128",
+      "phonenum": "01080774049",
+      "region": "전북",
+      "studentName": "전현정"
+    },
+    "030129-박현진": {
+      "birthday": "030129",
+      "level": "고등학교",
+      "name": "경원고등학교",
+      "password": "0828",
+      "phonenum": "01024206584",
+      "region": "경남",
+      "studentName": "박현진"
+    },
+    "030210-강현영": {
+      "birthday": "030210",
+      "level": "고등학교",
+      "name": "세종과학예술영재학교",
+      "password": "0210",
+      "phonenum": "01057942107",
+      "region": "세종",
+      "studentName": "강현영"
+    },
+    "030215-백승철": {
+      "birthday": "030215",
+      "level": "고등학교",
+      "name": "영동고등학교",
+      "phonenum": "01039343832",
+      "region": "서울",
+      "studentName": "백승철"
+    },
+    "030225-정수민": {
+      "birthday": "030225",
+      "level": "고등학교",
+      "name": "신목고등학교",
+      "password": "1375",
+      "phonenum": "01071785439",
+      "region": "서울",
+      "studentName": "정수민"
+    },
+    "030226-조영민": {
+      "birthday": "030226",
+      "ccode": "48836",
+      "level": "고등학교",
+      "name": "문정고등학교",
+      "password": "0000",
+      "phonenum": "01092487666",
+      "region": "서울",
+      "studentName": "조영민"
+    },
+    "030310-임완준": {
+      "birthday": "030310",
+      "level": "고등학교",
+      "name": "부안고등학교",
+      "password": "0310",
+      "phonenum": "01080774049",
+      "region": "전북",
+      "studentName": "임완준"
+    },
+    "030318-박준우": {
+      "birthday": "030318",
+      "level": "고등학교",
+      "name": "김해경원고등학교",
+      "password": "0808",
+      "phonenum": "01089337329",
+      "region": "경남",
+      "studentName": "박준우"
+    },
+    "030319-김은비": {
+      "birthday": "030319",
+      "level": "고등학교",
+      "name": "영동일고등학교",
+      "password": "0319",
+      "phonenum": "01037959056",
+      "region": "서울",
+      "studentName": "김은비"
+    },
+    "030322-박소은": {
+      "birthday": "030322",
+      "level": "고등학교",
+      "name": "신목고등학교",
+      "password": "0322",
+      "phonenum": "01091054208",
+      "region": "서울",
+      "studentName": "박소은"
+    },
+    "030402-박지훈": {
+      "birthday": "030402",
+      "level": "고등학교",
+      "name": "경산과학",
+      "password": "1234",
+      "phonenum": "01082963690",
+      "region": "경북",
+      "studentName": "박지훈"
+    },
+    "030405-정혜찬": {
+      "birthday": "030405",
+      "level": "고등학교",
+      "name": "세종과학예술영재학교",
+      "phonenum": "01023212036",
+      "region": "세종",
+      "studentName": "정혜찬"
+    },
+    "030412-조민혁": {
+      "birthday": "030412",
+      "level": "고등학교",
+      "name": "김해경원고등학교",
+      "password": "0412",
+      "phonenum": "01046416371",
+      "region": "경남",
+      "studentName": "조민혁"
+    },
+    "030423-문현준": {
+      "birthday": "030423",
+      "level": "고등학교",
+      "name": "김해경원고등학교",
+      "password": "5691",
+      "phonenum": "01047931946",
+      "region": "경남",
+      "studentName": "문현준"
+    },
+    "030425-최성민": {
+      "birthday": "030425",
+      "level": "고등학교",
+      "name": "부안고등학교",
+      "password": "7826",
+      "phonenum": "01051917826",
+      "region": "전북",
+      "studentName": "최성민"
+    },
+    "030503-배상혁": {
+      "birthday": "030503",
+      "level": "고등학교",
+      "name": "심석고등학교",
+      "password": "0503",
+      "phonenum": "01055156254",
+      "region": "경기",
+      "studentName": "배상혁"
+    },
+    "030520-강주형": {
+      "birthday": "030520",
+      "level": "고등학교",
+      "name": "선사고등학교",
+      "password": "0520",
+      "phonenum": "01067295585",
+      "region": "서울",
+      "studentName": "강주형"
+    },
+    "030520-서영경": {
+      "birthday": "030520",
+      "level": "고등학교",
+      "name": "김해가야고등학교",
+      "password": "0520",
+      "phonenum": "01050695807",
+      "region": "경남",
+      "studentName": "서영경"
+    },
+    "030522-최사무엘": {
+      "birthday": "030522",
+      "level": "고등학교",
+      "name": "대진디자인고등학교",
+      "password": "0522",
+      "phonenum": "01032220697",
+      "region": "서울",
+      "studentName": "최사무엘"
+    },
+    "030618-은주원": {
+      "birthday": "030618",
+      "level": "고등학교",
+      "name": "과천고등학교",
+      "password": "0618",
+      "phonenum": "01097998177",
+      "region": "경기",
+      "studentName": "은주원"
+    },
+    "030623-윤진명": {
+      "birthday": "030623",
+      "level": "고등학교",
+      "name": "김해임호고등학교",
+      "password": "5877",
+      "phonenum": "01086822388",
+      "region": "경남",
+      "studentName": "윤진명"
+    },
+    "030626-이승찬": {
+      "birthday": "030626",
+      "level": "고등학교",
+      "name": "세종과학예술영재학교",
+      "password": "9817",
+      "phonenum": "01030642064",
+      "region": "세종",
+      "studentName": "이승찬"
+    },
+    "030702-김은재": {
+      "birthday": "030702",
+      "level": "고등학교",
+      "name": "신목고등학교",
+      "password": "0325",
+      "phonenum": "01091025195",
+      "region": "서울",
+      "studentName": "김은재"
+    },
+    "030714-이은결": {
+      "birthday": "030714",
+      "level": "고등학교",
+      "name": "군포e비즈니스고",
+      "password": "6589",
+      "phonenum": "01058356589",
+      "region": "경기",
+      "studentName": "이은결"
+    },
+    "030805-조민성": {
+      "birthday": "030805",
+      "level": "고등학교",
+      "name": "신서고등학교",
+      "password": "5835",
+      "phonenum": "01089975835",
+      "region": "서울",
+      "studentName": "조민성"
+    },
+    "030813-강세현": {
+      "birthday": "030813",
+      "level": "고등학교",
+      "name": "신목고등학교",
+      "password": "3710",
+      "phonenum": "01062318464",
+      "region": "서울",
+      "studentName": "강세현"
+    },
+    "030825-김동현": {
+      "birthday": "030825",
+      "level": "고등학교",
+      "name": "김해가야고등학교",
+      "password": "6303",
+      "phonenum": "01063207749",
+      "region": "경남",
+      "studentName": "김동현"
+    },
+    "030910-서정우": {
+      "birthday": "030910",
+      "level": "고등학교",
+      "name": "경원고등학교",
+      "password": "0910",
+      "phonenum": "01080106709",
+      "region": "경남",
+      "studentName": "서정우"
+    },
+    "030912-안대성": {
+      "birthday": "030912",
+      "level": "고등학교",
+      "name": "경원고등학교",
+      "password": "0269",
+      "phonenum": "01025610269",
+      "region": "경남",
+      "studentName": "안대성"
+    },
+    "030918-이현우": {
+      "birthday": "030918",
+      "level": "고등학교",
+      "name": "인천전자마이스터고등학교",
+      "password": "1894",
+      "phonenum": "01063031161",
+      "region": "인천",
+      "studentName": "이현우"
+    },
+    "030920-김도현": {
+      "birthday": "030920",
+      "level": "고등학교",
+      "name": "세종과학예술영재학교",
+      "phonenum": "01054178647",
+      "region": "세종",
+      "studentName": "김도현"
+    },
+    "031013-김준이": {
+      "birthday": "031013",
+      "level": "고등학교",
+      "name": "중동고등학교",
+      "password": "1013",
+      "phonenum": "01083591013",
+      "region": "서울",
+      "studentName": "김준이"
+    },
+    "031103-정하승": {
+      "birthday": "031103",
+      "level": "고등학교",
+      "name": "화곡보건경영고등학교",
+      "password": "6429",
+      "phonenum": "01031462506",
+      "region": "서울",
+      "studentName": "정하승"
+    },
+    "031108-최민경": {
+      "birthday": "031108",
+      "level": "고등학교",
+      "name": "인천세원고등학교",
+      "password": "1439",
+      "phonenum": "01029071439",
+      "region": "인천",
+      "studentName": "최민경"
+    },
+    "031115-주현준": {
+      "birthday": "031115",
+      "level": "고등학교",
+      "name": "김해경원고등학교",
+      "password": "9801",
+      "phonenum": "01028048113",
+      "region": "경남",
+      "studentName": "주현준"
+    },
+    "031117-박선겸": {
+      "birthday": "031117",
+      "level": "고등학교",
+      "name": "김해생명과학고등학교",
+      "password": "5331",
+      "phonenum": "01021235331",
+      "region": "경남",
+      "studentName": "박선겸"
+    },
+    "031126-제수민": {
+      "birthday": "031126",
+      "level": "고등학교",
+      "name": "대명여자고등학교",
+      "password": "9745",
+      "phonenum": "01080774049",
+      "region": "부산",
+      "studentName": "제수민"
+    },
+    "031202-정휘윤": {
+      "birthday": "031202",
+      "level": "고등학교",
+      "name": "김해경원",
+      "password": "1202",
+      "phonenum": "01035527398",
+      "region": "경남",
+      "studentName": "정휘윤"
+    },
+    "031222-민희원": {
+      "birthday": "031222",
+      "level": "고등학교",
+      "name": "신목고등학교",
+      "password": "1222",
+      "phonenum": "01045436893",
+      "region": "서울",
+      "studentName": "민희원"
+    },
+    "040123-엄준하": {
+      "birthday": "040123",
+      "level": "고등학교",
+      "name": "세종과학고등학교",
+      "password": "0401",
+      "phonenum": "01068771310",
+      "region": "서울",
+      "studentName": "엄준하"
+    },
+    "040128-박태관": {
+      "birthday": "040128",
+      "level": "고등학교",
+      "name": "대진전자통신고등학교",
+      "password": "6481",
+      "phonenum": "01048752457",
+      "region": "부산",
+      "studentName": "박태관"
+    },
+    "040206-성지환": {
+      "birthday": "040206",
+      "level": "고등학교",
+      "name": "대인고등학교",
+      "password": "1234",
+      "phonenum": "01026731309",
+      "region": "인천",
+      "studentName": "성지환"
+    },
+    "040206-이한민": {
+      "birthday": "040206",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "2447",
+      "phonenum": "01034842447",
+      "region": "부산",
+      "studentName": "이한민"
+    },
+    "040207-박한율": {
+      "birthday": "040207",
+      "level": "고등학교",
+      "name": "인천전자마이스터고등학교",
+      "password": "0207",
+      "phonenum": "01029954540",
+      "region": "인천",
+      "studentName": "박한율"
+    },
+    "040207-송효근": {
+      "birthday": "040207",
+      "level": "고등학교",
+      "name": "강동고등학교",
+      "password": "0207",
+      "phonenum": "01053714652",
+      "region": "서울",
+      "studentName": "송효근"
+    },
+    "040211-정우진": {
+      "birthday": "040211",
+      "level": "고등학교",
+      "name": "한강미디어고등학교",
+      "phonenum": "01034462372",
+      "region": "서울",
+      "studentName": "정우진"
+    },
+    "040212-배진석": {
+      "birthday": "040212",
+      "level": "고등학교",
+      "name": "단국대학교부속소프트웨어고등학교",
+      "password": "2468",
+      "phonenum": "01024688483",
+      "region": "서울",
+      "studentName": "배진석"
+    },
+    "040217-김준서": {
+      "birthday": "040217",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "1973",
+      "phonenum": "01044846339",
+      "region": "부산",
+      "studentName": "김준서"
+    },
+    "040302-우현식": {
+      "birthday": "040302",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "7977",
+      "phonenum": "01052905080",
+      "region": "부산",
+      "studentName": "우현식"
+    },
+    "040304-박현아": {
+      "birthday": "040304",
+      "level": "고등학교",
+      "name": "동대전",
+      "password": "1418",
+      "phonenum": "01078090335",
+      "region": "대전",
+      "studentName": "박현아"
+    },
+    "040308-신동건": {
+      "birthday": "040308",
+      "level": "고등학교",
+      "name": "달서고",
+      "password": "0308",
+      "phonenum": "01063237717",
+      "region": "대구",
+      "studentName": "신동건"
+    },
+    "040311-양형대": {
+      "birthday": "040311",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "1130",
+      "phonenum": "01032790311",
+      "region": "부산",
+      "studentName": "양형대"
+    },
+    "040312-박태규": {
+      "birthday": "040312",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "0312",
+      "phonenum": "01020367454",
+      "region": "부산",
+      "studentName": "박태규"
+    },
+    "040315-박종민": {
+      "birthday": "040315",
+      "level": "고등학교",
+      "name": "공주마이스터고등학교",
+      "password": "0922",
+      "phonenum": "01056811160",
+      "region": "충남",
+      "studentName": "박종민"
+    },
+    "040325-박태은": {
+      "birthday": "040325",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "4689",
+      "phonenum": "01037923715",
+      "region": "부산",
+      "studentName": "박태은"
+    },
+    "040402-전찬우": {
+      "birthday": "040402",
+      "level": "고등학교",
+      "name": "인천전자마이스터고등학교",
+      "password": "2414",
+      "phonenum": "01027741656",
+      "region": "인천",
+      "studentName": "전찬우"
+    },
+    "040405-황기현": {
+      "birthday": "040405",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "0405",
+      "phonenum": "01025518913",
+      "region": "부산",
+      "studentName": "황기현"
+    },
+    "040407-김우겸": {
+      "birthday": "040407",
+      "level": "고등학교",
+      "name": "광주석산고등학교",
+      "password": "0407",
+      "phonenum": "01067013560",
+      "region": "광주",
+      "studentName": "김우겸"
+    },
+    "040420-이지원": {
+      "birthday": "040420",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "0420",
+      "phonenum": "01098176985",
+      "region": "부산",
+      "studentName": "이지원"
+    },
+    "040422-홍종수": {
+      "birthday": "040422",
+      "level": "고등학교",
+      "name": "대인고등학교",
+      "password": "8676",
+      "phonenum": "01062698676",
+      "region": "인천",
+      "studentName": "홍종수"
+    },
+    "040425-박호영": {
+      "birthday": "040425",
+      "level": "고등학교",
+      "name": "대진전자통신고등학교",
+      "phonenum": "01062606285",
+      "region": "부산",
+      "studentName": "박호영"
+    },
+    "040428-최지운": {
+      "birthday": "040428",
+      "level": "고등학교",
+      "name": "강동고등학교",
+      "password": "8447",
+      "phonenum": "01047028447",
+      "region": "서울",
+      "studentName": "최지운"
+    },
+    "040430-정민서": {
+      "birthday": "040430",
+      "level": "고등학교",
+      "name": "인천전자마이스터고등학교",
+      "password": "0430",
+      "phonenum": "01066111129",
+      "region": "인천",
+      "studentName": "정민서"
+    },
+    "040509-정유석": {
+      "birthday": "040509",
+      "level": "고등학교",
+      "name": "강동고등학교",
+      "password": "1234",
+      "phonenum": "01086145675",
+      "region": "서울",
+      "studentName": "정유석"
+    },
+    "040513-서준성": {
+      "birthday": "040513",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "0782",
+      "phonenum": "01095820782",
+      "region": "부산",
+      "studentName": "서준성"
+    },
+    "040529-김민성": {
+      "birthday": "040529",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "0529",
+      "phonenum": "01085300664",
+      "region": "부산",
+      "studentName": "김민성"
+    },
+    "040620-오어진": {
+      "birthday": "040620",
+      "level": "고등학교",
+      "name": "대덕소프트웨어마이스터고",
+      "password": "1234",
+      "phonenum": "01034656634",
+      "region": "대전",
+      "studentName": "오어진"
+    },
+    "040626-황문성": {
+      "birthday": "040626",
+      "level": "고등학교",
+      "name": "광덕고등학교",
+      "password": "6439",
+      "phonenum": "01064390755",
+      "region": "광주",
+      "studentName": "황문성"
+    },
+    "040703-손의진": {
+      "birthday": "040703",
+      "level": "고등학교",
+      "name": "숭덕고등학교",
+      "phonenum": "01075511151",
+      "region": "광주",
+      "studentName": "손의진"
+    },
+    "040718-김병창": {
+      "birthday": "040718",
+      "level": "고등학교",
+      "name": "증평정보고등학교",
+      "password": "2946",
+      "phonenum": "01029468638",
+      "region": "충북",
+      "studentName": "김병창"
+    },
+    "040726-박정현": {
+      "birthday": "040726",
+      "level": "고등학교",
+      "name": "배재고등학교",
+      "phonenum": "",
+      "region": "서울",
+      "studentName": "박정현"
+    },
+    "040728-박세찬": {
+      "birthday": "040728",
+      "level": "고등학교",
+      "name": "대진전자통신고",
+      "password": "0802",
+      "phonenum": "01065559486",
+      "region": "부산",
+      "studentName": "박세찬"
+    },
+    "040807-선건호": {
+      "birthday": "040807",
+      "level": "고등학교",
+      "name": "광주석산고등학교",
+      "phonenum": "01062165137",
+      "region": "광주",
+      "studentName": "선건호"
+    },
+    "040826-정다훈": {
+      "birthday": "040826",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "5934",
+      "phonenum": "01095155934",
+      "region": "부산",
+      "studentName": "정다훈"
+    },
+    "040828-김형빈": {
+      "birthday": "040828",
+      "level": "고등학교",
+      "name": "대진디자인고등학교",
+      "password": "6390",
+      "phonenum": "01063905294",
+      "region": "서울",
+      "studentName": "김형빈"
+    },
+    "040917-정재승": {
+      "birthday": "040917",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "1611",
+      "phonenum": "01056491611",
+      "region": "부산",
+      "studentName": "정재승"
+    },
+    "040922-김대현": {
+      "birthday": "040922",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "0922",
+      "phonenum": "01075585663",
+      "region": "부산",
+      "studentName": "김대현"
+    },
+    "040928-김수호": {
+      "birthday": "040928",
+      "level": "고등학교",
+      "name": "대진전자통신고등학교",
+      "password": "4314",
+      "phonenum": "01042842808",
+      "region": "부산",
+      "studentName": "김수호"
+    },
+    "041030-야민우": {
+      "birthday": "041030",
+      "level": "고등학교",
+      "name": "강동고등학교",
+      "password": "4476",
+      "phonenum": "01044761030",
+      "region": "서울",
+      "studentName": "야민우"
+    },
+    "041113-곽민승 ": {
+      "birthday": "041113",
+      "level": "고등학교",
+      "name": "부산일과학",
+      "password": "1234",
+      "phonenum": "01041555489",
+      "region": "부산",
+      "studentName": "곽민승 "
+    },
+    "041113-김상희": {
+      "birthday": "041113",
+      "level": "고등학교",
+      "name": "대연고등학교",
+      "password": "1113",
+      "phonenum": "0108382394",
+      "region": "부산",
+      "studentName": "김상희"
+    },
+    "041127-차준호": {
+      "birthday": "041127",
+      "level": "고등학교",
+      "name": "경상공업",
+      "password": "1127",
+      "phonenum": "01077545748",
+      "region": "대구",
+      "studentName": "차준호"
+    },
+    "041129-신원준": {
+      "birthday": "041129",
+      "level": "고등학교",
+      "name": "형석고등학교",
+      "password": "4032",
+      "phonenum": "01088794032",
+      "region": "충북",
+      "studentName": "신원준"
+    },
+    "041204-권이준": {
+      "birthday": "041204",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "6448",
+      "phonenum": "01054279252",
+      "region": "부산",
+      "studentName": "권이준"
+    },
+    "041214-성시현": {
+      "birthday": "041214",
+      "level": "고등학교",
+      "name": "부산일과학고등학교",
+      "password": "0723",
+      "phonenum": "01088254934",
+      "region": "부산",
+      "studentName": "성시현"
+    },
+    "041214-임미르": {
+      "birthday": "041214",
+      "level": "고등학교",
+      "name": "함덕고등학교",
+      "password": "1214",
+      "phonenum": "01033107521",
+      "region": "제주",
+      "studentName": "임미르"
+    },
+    "041224-김민재": {
+      "birthday": "041224",
+      "level": "고등학교",
+      "name": "풍산고등학교",
+      "password": "9081",
+      "phonenum": "01087809081",
+      "region": "경기",
+      "studentName": "김민재"
+    },
+    "050101-박현진": {
+      "birthday": "050101",
+      "level": "중학교",
+      "name": "개림중학교",
+      "password": "9162",
+      "phonenum": "01033769162",
+      "region": "부산",
+      "studentName": "박현진"
+    },
+    "050103-김태희": {
+      "birthday": "050103",
+      "level": "중학교",
+      "name": "신사중학교",
+      "password": "1541",
+      "phonenum": "01072399418",
+      "region": "서울",
+      "studentName": "김태희"
+    },
+    "050104-이원석": {
+      "birthday": "050104",
+      "level": "중학교",
+      "name": "태안중학교",
+      "password": "0104",
+      "phonenum": "01029006616",
+      "region": "충남",
+      "studentName": "이원석"
+    },
+    "050105-차명빈": {
+      "birthday": "050105",
+      "level": "중학교",
+      "name": "인천해송중학교",
+      "password": "0501",
+      "phonenum": "01025081787",
+      "region": "인천",
+      "studentName": "차명빈"
+    },
+    "050106-정주혁": {
+      "birthday": "050106",
+      "level": "중학교",
+      "name": "개림중학교",
+      "password": "5693",
+      "phonenum": "01038814393",
+      "region": "부산",
+      "studentName": "정주혁"
+    },
+    "050128-김찬우": {
+      "birthday": "050128",
+      "level": "고등학교",
+      "name": "세종과학",
+      "password": "0128",
+      "phonenum": "01091666435",
+      "region": "서울",
+      "studentName": "김찬우"
+    },
+    "050201-유영민": {
+      "birthday": "050201",
+      "level": "중학교",
+      "name": "사천중학교",
+      "region": "경남",
+      "studentName": "유영민"
+    },
+    "050201-윤상수": {
+      "birthday": "050201",
+      "level": "고등학교",
+      "name": "세종과학고등학교",
+      "password": "0909",
+      "phonenum": "01030559525",
+      "region": "서울",
+      "studentName": "윤상수"
+    },
+    "050207-유재훈": {
+      "birthday": "050207",
+      "ccode": "38727",
+      "level": "중학교",
+      "name": "신사중학교",
+      "password": "0207",
+      "phonenum": "",
+      "region": "서울",
+      "studentName": "유재훈"
+    },
+    "050211-권재현": {
+      "birthday": "050211",
+      "level": "중학교",
+      "name": "신사중학교",
+      "phonenum": "01040319044",
+      "region": "서울",
+      "studentName": "권재현"
+    },
+    "050212-김민우": {
+      "birthday": "050212",
+      "level": "중학교",
+      "name": "신동중학교",
+      "password": "0212",
+      "phonenum": "01094612293",
+      "region": "서울",
+      "studentName": "김민우"
+    },
+    "050304-유서연": {
+      "birthday": "050304",
+      "level": "중학교",
+      "name": "신사중학교",
+      "password": "1654",
+      "phonenum": "01086951654",
+      "region": "서울",
+      "studentName": "유서연"
+    },
+    "050310-안준성": {
+      "birthday": "050310",
+      "level": "중학교",
+      "name": "대원국제중",
+      "password": "0310",
+      "phonenum": "0",
+      "region": "서울",
+      "studentName": "안준성"
+    },
+    "050317-김진호": {
+      "birthday": "050317",
+      "level": "중학교",
+      "name": "언주중학교",
+      "password": "0317",
+      "phonenum": "",
+      "region": "서울",
+      "studentName": "김진호"
+    },
+    "050331-김동현": {
+      "birthday": "050331",
+      "level": "중학교",
+      "name": "신사중",
+      "password": "5331",
+      "phonenum": "01021400443",
+      "region": "서울",
+      "studentName": "김동현"
+    },
+    "050405-김은비": {
+      "birthday": "050405",
+      "level": "중학교",
+      "name": "청심국제중학교",
+      "password": "0405",
+      "phonenum": "01053716013",
+      "region": "경기",
+      "studentName": "김은비"
+    },
+    "050407-박현찬": {
+      "birthday": "050407",
+      "level": "중학교",
+      "name": "천안가온중학교",
+      "phonenum": "0109585540",
+      "region": "충남",
+      "studentName": "박현찬"
+    },
+    "050413-최민종": {
+      "birthday": "050413",
+      "level": "중학교",
+      "name": "양정",
+      "password": "0413",
+      "phonenum": "01064102097",
+      "region": "서울",
+      "studentName": "최민종"
+    },
+    "050414-박주환": {
+      "birthday": "050414",
+      "level": "중학교",
+      "name": "신사",
+      "password": "0414",
+      "phonenum": "01050905941",
+      "region": "서울",
+      "studentName": "박주환"
+    },
+    "050429-박효영": {
+      "birthday": "050429",
+      "level": "고등학교",
+      "name": "대덕소프트웨어마이스터고등학교",
+      "password": "0729",
+      "phonenum": "01095642428",
+      "region": "대전",
+      "studentName": "박효영"
+    },
+    "050505-황은태": {
+      "birthday": "050505",
+      "level": "중학교",
+      "name": "환서중학교",
+      "password": "1324",
+      "phonenum": "01024933962",
+      "region": "충남",
+      "studentName": "황은태"
+    },
+    "050506-박주형": {
+      "birthday": "050506",
+      "level": "중학교",
+      "name": "신사중학교",
+      "phonenum": "01050302102",
+      "region": "서울",
+      "studentName": "박주형"
+    },
+    "050516-신우상": {
+      "birthday": "050516",
+      "level": "중학교",
+      "name": "신사",
+      "password": "0516",
+      "phonenum": "01044630858",
+      "region": "서울",
+      "studentName": "신우상"
+    },
+    "050526-염선우": {
+      "birthday": "050526",
+      "level": "중학교",
+      "name": "전주우림중학교",
+      "password": "0526",
+      "phonenum": "",
+      "region": "전북",
+      "studentName": "염선우"
+    },
+    "050601-전진형": {
+      "birthday": "050601",
+      "level": "고등학교",
+      "name": "세종과학고",
+      "password": "8770",
+      "phonenum": "01047508169",
+      "region": "서울",
+      "studentName": "전진형"
+    },
+    "050602-허수혁": {
+      "birthday": "050602",
+      "level": "중학교",
+      "name": "영신중학교",
+      "password": "0602",
+      "phonenum": "01090591954",
+      "region": "대구",
+      "studentName": "허수혁"
+    },
+    "050603-고현빈": {
+      "birthday": "050603",
+      "level": "중학교",
+      "name": "양정중학교",
+      "password": "5013",
+      "phonenum": "01090141686",
+      "region": "서울",
+      "studentName": "고현빈"
+    },
+    "050608-박진우": {
+      "birthday": "050608",
+      "level": "고등학교",
+      "name": "세종과학",
+      "password": "1313",
+      "phonenum": "01040734086",
+      "region": "서울",
+      "studentName": "박진우"
+    },
+    "050624-이건": {
+      "birthday": "050624",
+      "level": "중학교",
+      "name": "한가람중학교",
+      "password": "5519",
+      "phonenum": "01055196014",
+      "region": "경기",
+      "studentName": "이건"
+    },
+    "050625-윤재훈": {
+      "birthday": "050625",
+      "level": "중학교",
+      "name": "청심국제중학교",
+      "password": "5625",
+      "phonenum": "01071917819",
+      "region": "경기",
+      "studentName": "윤재훈"
+    },
+    "050726-이재홍": {
+      "birthday": "050726",
+      "level": "고등학교",
+      "name": "경기과학",
+      "password": "0726",
+      "phonenum": "01074713522",
+      "region": "경기",
+      "studentName": "이재홍"
+    },
+    "050728-박신우": {
+      "birthday": "050728",
+      "level": "중학교",
+      "name": "창원중앙중학교",
+      "password": "2693",
+      "phonenum": "01023035371",
+      "region": "경남",
+      "studentName": "박신우"
+    },
+    "050731-정세형": {
+      "birthday": "050731",
+      "level": "중학교",
+      "name": "영일중학교",
+      "password": "0731",
+      "phonenum": "01048189571",
+      "region": "경북",
+      "studentName": "정세형"
+    },
+    "050812-전재민": {
+      "birthday": "050812",
+      "level": "중학교",
+      "name": "월촌",
+      "password": "3439",
+      "phonenum": "01086313439",
+      "region": "서울",
+      "studentName": "전재민"
+    },
+    "050905-김나영": {
+      "birthday": "050905",
+      "level": "중학교",
+      "name": "언남중학교",
+      "password": "0905",
+      "phonenum": "01075753027",
+      "region": "서울",
+      "studentName": "김나영"
+    },
+    "050906-최승기": {
+      "birthday": "050906",
+      "level": "중학교",
+      "name": "고려중학교",
+      "phonenum": "01077089250",
+      "region": "광주",
+      "studentName": "최승기"
+    },
+    "050907-안시현": {
+      "birthday": "050907",
+      "level": "중학교",
+      "name": "봉담중학교",
+      "password": "0420",
+      "phonenum": "01036597760",
+      "region": "경기",
+      "studentName": "안시현"
+    },
+    "050913-이정형": {
+      "birthday": "050913",
+      "level": "중학교",
+      "name": "신사중학교",
+      "password": "0913",
+      "phonenum": "01095290577",
+      "region": "서울",
+      "studentName": "이정형"
+    },
+    "050927-전규민": {
+      "birthday": "050927",
+      "level": "중학교",
+      "name": "판곡",
+      "password": "0927",
+      "phonenum": "01059335206",
+      "region": "경기",
+      "studentName": "전규민"
+    },
+    "051031-김한중": {
+      "birthday": "051031",
+      "level": "중학교",
+      "name": "신구중학교",
+      "phonenum": "01087688262",
+      "region": "서울",
+      "studentName": "김한중"
+    },
+    "051112-조영준": {
+      "birthday": "051112",
+      "level": "고등학교",
+      "name": "세종과학고",
+      "password": "4687",
+      "phonenum": "01053641022",
+      "region": "서울",
+      "studentName": "조영준"
+    },
+    "051114-태지연": {
+      "birthday": "051114",
+      "level": "중학교",
+      "name": "신사중",
+      "password": "1114",
+      "phonenum": "01057292932",
+      "region": "서울",
+      "studentName": "태지연"
+    },
+    "051126-한상준": {
+      "birthday": "051126",
+      "level": "중학교",
+      "name": "신사",
+      "password": "3595",
+      "phonenum": "01086853595",
+      "region": "서울",
+      "studentName": "한상준"
+    },
+    "051202-정민재": {
+      "birthday": "051202",
+      "level": "중학교",
+      "name": "주성중학교",
+      "password": "1234",
+      "phonenum": "01000000000",
+      "region": "충북",
+      "studentName": "정민재"
+    },
+    "051206-이호범": {
+      "birthday": "051206",
+      "level": "중학교",
+      "name": "신사",
+      "password": "1206",
+      "phonenum": "01096610815",
+      "region": "서울",
+      "studentName": "이호범"
+    },
+    "051213-김도현": {
+      "birthday": "051213",
+      "level": "중학교",
+      "name": "관교중",
+      "password": "0231",
+      "phonenum": "01042320231",
+      "region": "인천",
+      "studentName": "김도현"
+    },
+    "051228-김형준": {
+      "birthday": "051228",
+      "level": "고등학교",
+      "name": "세종과학",
+      "password": "2002",
+      "phonenum": "01096506532",
+      "region": "서울",
+      "studentName": "김형준"
+    },
+    "060117-정세진": {
+      "birthday": "060117",
+      "level": "중학교",
+      "name": "서경중학교",
+      "password": "2117",
+      "phonenum": "01049778716",
+      "region": "충북",
+      "studentName": "정세진"
+    },
+    "060123-임재휘": {
+      "birthday": "060123",
+      "level": "중학교",
+      "name": "서경중학교",
+      "password": "7166",
+      "phonenum": "01049983834",
+      "region": "충북",
+      "studentName": "임재휘"
+    },
+    "060127-신다겸": {
+      "birthday": "060127",
+      "level": "중학교",
+      "name": "언남중학교",
+      "password": "0127",
+      "phonenum": "01062400501",
+      "region": "서울",
+      "studentName": "신다겸"
+    },
+    "060218-신희겸": {
+      "birthday": "060218",
+      "level": "중학교",
+      "name": "신사중학교",
+      "password": "0218",
+      "phonenum": "01090686749",
+      "region": "서울",
+      "studentName": "신희겸"
+    },
+    "060228-이준용": {
+      "birthday": "060228",
+      "level": "중학교",
+      "name": "덕원중학교",
+      "password": "8082",
+      "phonenum": "01080822046",
+      "region": "대구",
+      "studentName": "이준용"
+    },
+    "060318-남현중": {
+      "birthday": "060318",
+      "level": "중학교",
+      "name": "서경중학교",
+      "phonenum": "01085723871",
+      "region": "충북",
+      "studentName": "남현중"
+    },
+    "060326-문준하": {
+      "birthday": "060326",
+      "level": "중학교",
+      "name": "마장중학교",
+      "phonenum": "01050157447",
+      "region": "경기",
+      "studentName": "문준하"
+    },
+    "060327-황재환": {
+      "birthday": "060327",
+      "level": "중학교",
+      "name": "형석중학교",
+      "password": "9354",
+      "phonenum": "01079999354",
+      "region": "충북",
+      "studentName": "황재환"
+    },
+    "060404-이유나": {
+      "birthday": "060404",
+      "level": "중학교",
+      "name": "선화예술중학교",
+      "password": "0770",
+      "phonenum": "01030642064",
+      "region": "서울",
+      "studentName": "이유나"
+    },
+    "060407-박형찬": {
+      "birthday": "060407",
+      "level": "중학교",
+      "name": "부림중학교",
+      "password": "0407",
+      "phonenum": "01041369980",
+      "region": "경기",
+      "studentName": "박형찬"
+    },
+    "060415-이동규": {
+      "birthday": "060415",
+      "level": "중학교",
+      "name": "다선중학교",
+      "password": "2114",
+      "phonenum": "01084861770",
+      "region": "부산",
+      "studentName": "이동규"
+    },
+    "060430-이현채": {
+      "birthday": "060430",
+      "level": "고등학교",
+      "name": "서울과학고등학교",
+      "password": "1730",
+      "phonenum": "01033410108",
+      "region": "서울",
+      "studentName": "이현채"
+    },
+    "060526-이상성": {
+      "birthday": "060526",
+      "level": "중학교",
+      "name": "문원중학교",
+      "password": "0526",
+      "phonenum": "01039453613",
+      "region": "경기",
+      "studentName": "이상성"
+    },
+    "060612-권기범": {
+      "birthday": "060612",
+      "level": "중학교",
+      "name": "전농중학교",
+      "password": "5959",
+      "phonenum": "01043989956",
+      "region": "서울",
+      "studentName": "권기범"
+    },
+    "060819-노연하": {
+      "birthday": "060819",
+      "level": "중학교",
+      "name": "남원중학교",
+      "password": "0819",
+      "phonenum": "01074692320",
+      "region": "전북",
+      "studentName": "노연하"
+    },
+    "060823-정주영": {
+      "birthday": "060823",
+      "level": "중학교",
+      "name": "형석중학교",
+      "phonenum": "01083564450",
+      "region": "충북",
+      "studentName": "정주영"
+    },
+    "060912-도우진": {
+      "birthday": "060912",
+      "level": "중학교",
+      "name": "내수중학교",
+      "password": "0912",
+      "phonenum": "01044137706",
+      "region": "충북",
+      "studentName": "도우진"
+    },
+    "061003-허준서": {
+      "birthday": "061003",
+      "level": "중학교",
+      "name": "문화중학교",
+      "password": "5324",
+      "phonenum": "01098793573",
+      "region": "경북",
+      "studentName": "허준서"
+    },
+    "061029-고예찬": {
+      "birthday": "061029",
+      "level": "중학교",
+      "name": "군산남중",
+      "password": "8723",
+      "phonenum": "01027848723",
+      "region": "전북",
+      "studentName": "고예찬"
+    },
+    "061030-장석영": {
+      "birthday": "061030",
+      "ccode": "16314",
+      "level": "중학교",
+      "name": "증평중학교",
+      "password": "1030",
+      "phonenum": "01093247499",
+      "region": "충북",
+      "studentName": "장석영"
+    },
+    "061031-고주원": {
+      "birthday": "061031",
+      "level": "중학교",
+      "name": "늘푸른중",
+      "password": "1031",
+      "phonenum": "01052430854",
+      "region": "경기",
+      "studentName": "고주원"
+    },
+    "061101-김수기": {
+      "birthday": "061101",
+      "level": "중학교",
+      "name": "곤지암중",
+      "password": "1101",
+      "phonenum": "01077658671",
+      "region": "경기",
+      "studentName": "김수기"
+    },
+    "061116-이현진": {
+      "birthday": "061116",
+      "level": "중학교",
+      "name": "형석중학교",
+      "phonenum": "01075241844",
+      "region": "충북",
+      "studentName": "이현진"
+    },
+    "061208-이은수": {
+      "birthday": "061208",
+      "level": "중학교",
+      "name": "서경중학교",
+      "password": "7359",
+      "phonenum": "01087945875",
+      "region": "충북",
+      "studentName": "이은수"
+    },
+    "061226-정승환": {
+      "birthday": "061226",
+      "level": "중학교",
+      "name": "덕원중학교",
+      "password": "1226",
+      "phonenum": "01012341234",
+      "region": "대구",
+      "studentName": "정승환"
+    },
+    "061226-조희원": {
+      "birthday": "061226",
+      "level": "중학교",
+      "name": "과천문원중학교",
+      "phonenum": "01020620033",
+      "region": "경기",
+      "studentName": "조희원"
+    },
+    "070103-장부경": {
+      "birthday": "070103",
+      "level": "중학교",
+      "name": "강동중학교",
+      "password": "0103",
+      "phonenum": "01032025063",
+      "region": "대구",
+      "studentName": "장부경"
+    },
+    "070105-이원준": {
+      "birthday": "070105",
+      "level": "중학교",
+      "name": "강동중학교",
+      "phonenum": "01071525004",
+      "region": "대구",
+      "studentName": "이원준"
+    },
+    "070218-김유림": {
+      "birthday": "070218",
+      "level": "중학교",
+      "name": "태안여자중학교",
+      "password": "0218",
+      "phonenum": "01020406557",
+      "region": "충남",
+      "studentName": "김유림"
+    },
+    "070222-김정환": {
+      "birthday": "070222",
+      "level": "중학교",
+      "name": "월평중학교",
+      "password": "3374",
+      "phonenum": "01033741814",
+      "region": "울산",
+      "studentName": "김정환"
+    },
+    "070227-문지인": {
+      "birthday": "070227",
+      "level": "중학교",
+      "name": "마장중학교",
+      "phonenum": "01093227447",
+      "region": "경기",
+      "studentName": "문지인"
+    },
+    "070316-심형준": {
+      "birthday": "070316",
+      "level": "중학교",
+      "name": "현풍중학교",
+      "password": "0316",
+      "phonenum": "01083706311",
+      "region": "대구",
+      "studentName": "심형준"
+    },
+    "070416-강세희": {
+      "birthday": "070416",
+      "level": "중학교",
+      "name": "마곡하늬중학교",
+      "password": "3710",
+      "phonenum": "01062318464",
+      "region": "서울",
+      "studentName": "강세희"
+    },
+    "070608-강동훈": {
+      "birthday": "070608",
+      "level": "중학교",
+      "name": "현풍중학교",
+      "phonenum": "01064235263",
+      "region": "대구",
+      "studentName": "강동훈"
+    },
+    "070612-박규빈": {
+      "birthday": "070612",
+      "level": "중학교",
+      "name": "선화예술",
+      "password": "1313",
+      "phonenum": "01045554086",
+      "region": "서울",
+      "studentName": "박규빈"
+    },
+    "070712-최민영": {
+      "birthday": "070712",
+      "level": "중학교",
+      "name": "월촌",
+      "password": "2097",
+      "phonenum": "01064102097",
+      "region": "서울",
+      "studentName": "최민영"
+    },
+    "070730-허은찬": {
+      "birthday": "070730",
+      "level": "중학교",
+      "name": "대전노은중학교",
+      "password": "1234",
+      "phonenum": "01044460730",
+      "region": "대전",
+      "studentName": "허은찬"
+    },
+    "070731-윤단": {
+      "birthday": "070731",
+      "level": "중학교",
+      "name": "아주중학교",
+      "password": "0909",
+      "phonenum": "01030559525",
+      "region": "서울",
+      "studentName": "윤단"
+    },
+    "070804-구본준": {
+      "birthday": "070804",
+      "level": "중학교",
+      "name": "월촌중학교",
+      "password": "8829",
+      "phonenum": "01099831979",
+      "region": "서울",
+      "studentName": "구본준"
+    },
+    "070818-전규현": {
+      "birthday": "070818",
+      "level": "중학교",
+      "name": "호평중",
+      "password": "0515",
+      "phonenum": "01048855206",
+      "region": "경기",
+      "studentName": "전규현"
+    },
+    "070821-정성호": {
+      "birthday": "070821",
+      "level": "중학교",
+      "name": "대전노은중학교",
+      "password": "0821",
+      "phonenum": "01038931762",
+      "region": "대전",
+      "studentName": "정성호"
+    },
+    "070825-박은서": {
+      "birthday": "070825",
+      "level": "중학교",
+      "name": "월촌",
+      "password": "0825",
+      "phonenum": "01082995093",
+      "region": "서울",
+      "studentName": "박은서"
+    },
+    "070910-김리건": {
+      "birthday": "070910",
+      "level": "중학교",
+      "name": "지산중학교",
+      "password": "0910",
+      "phonenum": "01085948772",
+      "region": "광주",
+      "studentName": "김리건"
+    },
+    "070911-김승찬": {
+      "birthday": "070911",
+      "level": "중학교",
+      "name": "지산중학교",
+      "password": "0911",
+      "phonenum": "01047963040",
+      "region": "광주",
+      "studentName": "김승찬"
+    },
+    "070921-정현재": {
+      "birthday": "070921",
+      "level": "중학교",
+      "name": "대전노은중학교",
+      "password": "1945",
+      "phonenum": "01063683550",
+      "region": "대전",
+      "studentName": "정현재"
+    },
+    "071005-박가은": {
+      "birthday": "071005",
+      "level": "중학교",
+      "name": "진천여자중학교",
+      "password": "1005",
+      "phonenum": "01094096396",
+      "region": "충북",
+      "studentName": "박가은"
+    },
+    "071109-곽재민": {
+      "birthday": "071109",
+      "level": "중학교",
+      "name": "새론중학교",
+      "password": "1109",
+      "phonenum": "01043755315",
+      "region": "대구",
+      "studentName": "곽재민"
+    },
+    "071113-조영진": {
+      "birthday": "071113",
+      "level": "중학교",
+      "name": "금당중학교",
+      "password": "1234",
+      "phonenum": "01073697525",
+      "region": "광주",
+      "studentName": "조영진"
+    },
+    "071126-양성빈": {
+      "birthday": "071126",
+      "level": "중학교",
+      "name": "대전노은중학교",
+      "password": "0711",
+      "phonenum": "01066370416",
+      "region": "대전",
+      "studentName": "양성빈"
+    },
+    "071203-구민준": {
+      "birthday": "071203",
+      "ccode": "44823",
+      "level": "중학교",
+      "name": "월평중",
+      "phonenum": "01076518524",
+      "region": "울산",
+      "studentName": "구민준"
+    },
+    "080216-신지성": {
+      "birthday": "080216",
+      "level": "초등학교",
+      "name": "하귀일초등학교",
+      "phonenum": "01024820216",
+      "region": "제주",
+      "studentName": "신지성"
+    },
+    "080225-김민건": {
+      "birthday": "080225",
+      "level": "초등학교",
+      "name": "조동",
+      "password": "0225",
+      "phonenum": "01056140225",
+      "region": "인천",
+      "studentName": "김민건"
+    },
+    "080331-김은서": {
+      "birthday": "080331",
+      "level": "초등학교",
+      "name": "학성초등학교",
+      "password": "1234",
+      "phonenum": "01033510078",
+      "region": "울산",
+      "studentName": "김은서"
+    },
+    "080506-안도영": {
+      "birthday": "080506",
+      "level": "초등학교",
+      "name": "서울언남",
+      "password": "1093",
+      "phonenum": "01037767728",
+      "region": "서울",
+      "studentName": "안도영"
+    },
+    "080509-정윤호": {
+      "birthday": "080509",
+      "level": "초등학교",
+      "name": "영도초등학교",
+      "phonenum": "01090195439",
+      "region": "서울",
+      "studentName": "정윤호"
+    },
+    "090415-박시은": {
+      "birthday": "090415",
+      "level": "초등학교",
+      "name": "대원초등학교",
+      "phonenum": "01041992693",
+      "region": "경남",
+      "studentName": "박시은"
+    },
+    "090718-신세영": {
+      "birthday": "090718",
+      "level": "초등학교",
+      "name": "만승초",
+      "password": "6563",
+      "phonenum": "01063891807",
+      "region": "충북",
+      "studentName": "신세영"
+    },
+    "090830-임희준": {
+      "birthday": "090830",
+      "level": "초등학교",
+      "name": "천안신대초등학교",
+      "password": "6262",
+      "phonenum": "01084786261",
+      "region": "충남",
+      "studentName": "임희준"
+    },
+    "100111-강세준": {
+      "birthday": "100111",
+      "level": "초등학교",
+      "name": "공진초등학교",
+      "password": "3710",
+      "phonenum": "01062318464",
+      "region": "서울",
+      "studentName": "강세준"
+    },
+    "100213-윤지우": {
+      "birthday": "100213",
+      "level": "초등학교",
+      "name": "월촌초등학교",
+      "password": "5404",
+      "phonenum": "01063046793",
+      "region": "서울",
+      "studentName": "윤지우"
+    },
+    "100304-김민찬": {
+      "birthday": "100304",
+      "level": "초등학교",
+      "name": "월촌초등학교",
+      "password": "0112",
+      "phonenum": "01094975183",
+      "region": "서울",
+      "studentName": "김민찬"
+    },
+    "100412-김은빈": {
+      "birthday": "100412",
+      "level": "초등학교",
+      "name": "학성초등학교",
+      "password": "1234",
+      "phonenum": "01033510078",
+      "region": "울산",
+      "studentName": "김은빈"
+    },
+    "100626-전윤형": {
+      "birthday": "100626",
+      "level": "초등학교",
+      "name": "송전초등학교",
+      "password": "1125",
+      "phonenum": "01047508169",
+      "region": "서울",
+      "studentName": "전윤형"
+    },
+    "100820-박지환": {
+      "birthday": "100820",
+      "level": "초등학교",
+      "name": "월촌",
+      "password": "0820",
+      "phonenum": "01082995093",
+      "region": "서울",
+      "studentName": "박지환"
+    },
+    "100831-구본윤": {
+      "birthday": "100831",
+      "level": "초등학교",
+      "name": "월촌초",
+      "password": "8829",
+      "phonenum": "01099831979",
+      "region": "서울",
+      "studentName": "구본윤"
+    },
+    "100913-김은율": {
+      "birthday": "100913",
+      "level": "초등학교",
+      "name": "원효초등학교",
+      "password": "0523",
+      "phonenum": "01047186013",
+      "region": "서울",
+      "studentName": "김은율"
+    },
+    "880714-조민정": {
+      "birthday": "880714",
+      "level": "초등학교",
+      "name": "서면",
+      "password": "8714",
+      "phonenum": "01045088714",
+      "region": "경기",
+      "studentName": "조민정"
+    },
+    "881026-도진현": {
+      "birthday": "881026",
+      "level": "초등학교",
+      "name": "마북초등학교",
+      "password": "1074",
+      "phonenum": "01036121810",
+      "region": "경기",
+      "studentName": "도진현"
+    },
+    "settings": {
+      "dorun": "T",
+      "dosend": "F",
+      "text": "[LEOK.KR] 교육청측 구조 변경으로 인해, 자동 자가진단을 하기 위해서 자가진단 비밀번호가 필요합니다. \n\n자동 자가진단을 계속 이용하시려면, 아래 링크에서 자동 자가진단을 재 등록 하셔야합니다. \n 번거롭게 해드려 죄송합니다\n\n https://cov.leok.kr"
+    }
+  }
+}
