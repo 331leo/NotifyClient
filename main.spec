@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['S:\\산출물-PyQt5'],
+             pathex=['S:\\NotifyClient'],
              binaries=[],
              datas=[],
              hiddenimports=[],

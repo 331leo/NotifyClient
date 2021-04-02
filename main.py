@@ -14,6 +14,7 @@ import schedule
 import time
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import Qt
+from urllib3.util import parse_url
 
 regwindowui = uic.loadUiType("regwindow.ui")[0]
 mainwindowui = uic.loadUiType("mainwindow.ui")[0]
@@ -311,6 +312,9 @@ class MainWindow(QMainWindow,mainwindowui):
                     regtableWindow.TimeTable.show()
                     regtableWindow.show()
                     return
+            regtableWindow.makeTimeTable()
+            regtableWindow.TimeTable.show()
+            regtableWindow.show()
         except:
             pass
         regtableWindow.makeTimeTable()
@@ -319,6 +323,27 @@ class MainWindow(QMainWindow,mainwindowui):
     #EVAL QMessageBox.about(self, '수업안내', f"수업시간입니다.\n자동으로 온라인 학습방을 실행합니다.",QMessageBox.Ok)
     def ViewTable(self):
         self.lineEdit.setFocus()
+        
+        data = requests.get(f"https://api.leok.kr/getalldata").json()
+        data = data.get("school",{}).get(self.datac.schoolname,None)
+        print(data)
+        try:
+            if len(data.get(f"{self.datac.grade}-{self.datac.classroom}",{})) > 2:
+                if data.get(f"{self.datac.grade}-{self.datac.classroom}")[0][0].get("url",None):
+                    print("links exsit")
+                    regtableWindow.makeTimeTable(links=data)
+                    regtableWindow.TimeTable.hide()
+                    regtableWindow.OkButton.hide()
+                    regtableWindow.InfoLable.setText("시간표를 확인후 X를 눌러 창을 닫아주세요")
+                    regtableWindow.show()
+                    return
+            regtableWindow.makeTimeTable()
+            regtableWindow.TimeTable.hide()
+            regtableWindow.OkButton.hide()
+            regtableWindow.InfoLable.setText("시간표를 확인후 X를 눌러 창을 닫아주세요")
+            regtableWindow.show()
+        except:
+            pass
         regtableWindow.makeTimeTable()
         regtableWindow.TimeTable.hide()
         regtableWindow.OkButton.hide()
@@ -327,10 +352,25 @@ class MainWindow(QMainWindow,mainwindowui):
     def covjob(self):
         if self.datac.iscov:
             print(hcskr.selfcheck(self.datac.name,self.datac.birthday,self.datac.area,self.datac.schoolname,self.datac.schoollevel,self.datac.password,"온라인 클래스 알리미"))
-    def scheduledjob(self):
+    
+    def testscheduledjob(self):
         print("ENTERED SCADULED JOB")
         classnum=str(self.datac.grade)+"-"+str(self.datac.classroom)
-        data={"school":self.datac.schoolname,"class":classnum}
+        t = datetime.datetime.now()
+        now = f"{str(t.hour) if len(str(t.hour)) == 2 else '0'+str(t.hour)}:{str(t.minute) if len(str(t.minute)) == 2 else '0'+str(t.minute)}"
+        data = requests.get("https://api.leok.kr/getalldata").json()
+        classnum=str(self.datac.grade)
+        index = 0
+        try:
+            timers = data['school'].get(self.datac.schoolname,{}).get(classnum,{}).get('timers',None) if data['school'].get(self.datac.schoolname,{}).get(classnum,{}).get('timers',None) else data['default']['timers']
+        except:
+            timers = data['default'].get("timers")
+        
+        for timer in timers:
+            if timer <= now:
+                index = timers.index(timer)
+
+        data={"school":self.datac.schoolname, "class":classnum, "index":index}
         data=str(data).replace("'",'"')
         print(data)
         try:
@@ -343,13 +383,14 @@ class MainWindow(QMainWindow,mainwindowui):
         else:
             print("수업시간이지만, 수업링크가 등록되어있지 않습니다.")
             return
-        url=rdata['url']
+        url=rdata['url'].replace("%0A","")
         print(str(url))
         os.system(f'explorer "{str(url)}"')
         reply = QMessageBox.information(self, '수업안내', f"{subject} 수업시간입니다.\n자동으로 온라인 학습방을 실행합니다.",QMessageBox.Ok,QMessageBox.Ok)
-
-    async def testscheduledjob(self):
+    @staticmethod
+    def scheduledjob(self):
         print("ENTERED SCADULED JOB")
+        print(self.datac)
         classnum=str(self.datac.grade)+"-"+str(self.datac.classroom)
         data={"school":self.datac.schoolname,"class":classnum}
         data=str(data).replace("'",'"')
@@ -363,10 +404,11 @@ class MainWindow(QMainWindow,mainwindowui):
         else:
             print("수업시간이지만, 수업링크가 등록되어있지 않습니다.")
             return
-        url=rdata['url']
-        print(str(url))
-        os.system(f'explorer "{str(url)}"')
-        reply = QMessageBox.information(self, '수업안내', f"{subject} 수업시간입니다.\n자동으로 온라인 학습방을 실행합니다.",QMessageBox.Ok,QMessageBox.Ok)
+        url=rdata.get("url","")
+        if url.startswith("http") or url.startswith("zoommtg"):
+            print(str(url))
+            os.system(f'explorer "{str(url)}"')
+            reply = QMessageBox.information(self, '수업안내', f"{subject} 수업시간입니다.\n자동으로 온라인 학습방을 실행합니다.",QMessageBox.Ok,QMessageBox.Ok)
 
 class RegTableWindow(QMainWindow,regtableui):
     datac = ""
@@ -519,6 +561,7 @@ class RegTableWindow(QMainWindow,regtableui):
         #for t in classtimes:
         #    timers.append(f"{str(t.hour()) if len(str(t.hour())) == 2 else '0'+str(t.hour())}:{str(t.minute()) if len(str(t.minute())) == 2 else '0'+str(t.minute())}")
         #print(timers)
+
 class ScheduleRunner(QThread):
     def run(self):
         try:
@@ -540,12 +583,48 @@ class ScheduleRunner(QThread):
             #hour=timer.split(":")[0]
             #min=timer.split(":")[1]
             #a = sched.add_job(self.scheduledjob,'cron',hour=hour,minute =min)
-            a = schedule.every().day.at(timer).do(MainWindow.scheduledjob, self)
+            a = schedule.every().day.at(timer).do(self.scheduledjob)
 
             print(a)
         while True:
             schedule.run_pending() 
             self.sleep(1)
+    class PopupWindow(QMainWindow):
+        def __init__(self):
+            super().__init__()
+            self.setWindowTitle("시간표 등록")
+            self.setStyleSheet(qdarkgraystyle.load_stylesheet())
+            self.setFixedSize(730, 380)
+            self.setWindowIcon(QIcon('icon.png'))
+
+
+    def scheduledjob(self):
+        window=self.PopupWindow()
+        window.close()
+        print("ENTERED SCADULED JOB")
+        print(self.datac)
+        classnum=str(self.datac.grade)+"-"+str(self.datac.classroom)
+        data={"school":self.datac.schoolname,"class":classnum}
+        data=str(data).replace("'",'"')
+        print(data)
+        try:
+            rdata=requests.post("https://api.leok.kr/getdata",data=data.encode('utf-8')).json()
+        except:
+            return
+        if rdata.get('subject'):
+            subject=rdata.get('subject')
+        else:
+            print("수업시간이지만, 수업링크가 등록되어있지 않습니다.")
+            return
+        url=rdata.get("url","")
+        if url.startswith("http") or url.startswith("zoommtg"):
+            print(rdata)
+            print(str(url))
+            os.system(f'explorer "{str(url)}"')
+            window=self.PopupWindow()
+            reply = QMessageBox.information(window, '수업안내', f"{subject} 수업시간입니다.\n자동으로 온라인 학습방을 실행합니다.",QMessageBox.Ok,QMessageBox.Ok)
+            window.close()
+
 if __name__ == "__main__":
 
     app = QApplication(sys.argv)
